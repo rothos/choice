@@ -1,0 +1,192 @@
+html, body, body * {
+    box-sizing: border-box;
+}
+
+pre {
+    border: none;
+}
+
+a.footnote {
+    /*vertical-align: super;*/
+    /*font-size: .75em;*/
+}
+
+ol.footnotes {
+    margin-left: 0;
+    margin-top: 2em;
+    padding-top: .5em;
+    border-top: 1px solid #888;
+    font-size: 0.9em;
+}
+
+#darkmode {
+    font-size:16px;
+    position:fixed;
+    bottom:1em;
+    right:1em;
+    border:2px solid #888;
+    padding:.2em.4em;
+    border-radius:4px;
+    cursor:pointer;
+    z-index:5000
+}
+
+.lightmode { background-color: #fff; }
+.darkmode {
+    color: #ddd;
+    background-color: #222 !important;
+    text-shadow: none;
+}
+    .darkmode *, .darkmode .nav-list > li > a {
+        text-shadow: none;
+    }
+    .darkmode a {
+        color: #70c8fc;
+    }
+    .darkmode a:hover {
+        color: #005580;
+    }
+    .darkmode pre {
+        color: #ddd;
+        background-color: #222 !important;
+    }
+
+    /* This is for the TOC in darkmode */
+    .darkmode .nav-list > .active > a {
+        background-color: #334a68;
+        color: #90d8ff;
+    }
+    .darkmode .nav > li > a:hover,
+    .darkmode .nav > li > a:focus {
+        background-color: #233650;
+        color: #90d8ff;
+    }
+
+#content {
+    font-family: "Lato", sans-serif;
+    line-height: 1.38;
+    overflow-wrap: break-word;
+}
+
+/* Mobile */
+@media screen and (max-width: 800px) {
+    #content {
+        padding: 90px 1em 1em 1em;
+    }
+    #hamburger {
+        position: fixed;
+        z-index: 1000;
+        top: 0;
+        left: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #888;
+        padding-left: 15px;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        font-size: 40px;
+        cursor: pointer;
+    }
+    #toc {
+        margin: 0;
+        padding-top: 60px;
+        border-radius: 0;
+        border-left: none;
+        border-top: none;
+        border-bottom: none;
+        transition: .18s ease;
+        left: -300px;
+        z-index: 1050;
+        max-height: 100% !important;
+        height: 100% !important;
+    }
+        #toc.show {
+            transition: .18s ease;
+            left: 0;
+        }
+        #toc.show #toc_close {
+            position: fixed;
+            top: 0;
+            left: 0;
+            padding-left: 15px;
+            width: 100%;
+            height: 60px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            z-index: 2000;
+            font-size: 50px;
+            opacity: 1;
+            cursor: pointer;
+            border-bottom: 1px solid #888;
+        }
+            #toc_close span {
+                position: relative;
+                top: -4px;
+            }
+}
+/* Desktop */
+@media screen and (min-width: 800px) {
+    #hamburger, #toc_close {
+        display: none;
+    }
+    #content {
+        margin-left: 350px;
+        max-width: 600px;
+        padding: 1em 1em 1em 1em;
+    }
+}
+
+
+
+
+
+blockquote {
+    border-left: 3px solid #bbb;
+    padding-left: 18px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+    blockquote blockquote {
+        border-left: 2px solid #9ac;
+        margin-bottom: 10px;
+    }
+    blockquote p {
+        font-size: inherit;
+        margin-bottom: 10px;
+    }
+
+ul ul, ul ol, ol ol, ol ul {
+    margin-bottom: 10px;
+}
+
+a {
+    cursor: pointer;
+}
+
+h2,h3,h4 {
+    margin-top: 2rem;
+    line-height: 1.35;
+}
+h5,h6 {
+    margin-top: 1rem;
+}
+
+.lower_roman+ol, .lower_roman+ul {list-style-type: lower-roman;}
+.upper_roman+ol, .upper_roman+ul {list-style-type: upper-roman;}
+.lower_alpha+ol, .lower_alpha+ul {list-style-type: lower-alpha;}
+.upper_alpha+ol, .upper_alpha+ul {list-style-type: upper-alpha;}
+.lower_greek+ol, .lower_greek+ul {list-style-type: lower-greek;}
+.lower_latin+ol, .lower_latin+ul {list-style-type: lower-latin;}
+.upper_latin+ol, .upper_latin+ul {list-style-type: upper-latin;}
+.none+ol, .none+ul {list-style-type:none;}
+.disc+ol, .disc+ul {list-style-type:disc;}
+.circle+ol, .circle+ul {list-style-type:circle;}
+.square+ol, .square+ul {list-style-type:square;}
+.decimal+ol, .decimal+ul {list-style-type:decimal;}
+.decimal_leading_zero+ol, .decimal_leading_zero+ul {list-style-type:decimal-leading-zero;}
+
+.loose_list+ol > li, .loose_list+ul > li { margin-bottom: 10px; }
+.tight_list+ol > li, .tight_list+ul > li { margin-bottom: 0; }
