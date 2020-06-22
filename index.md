@@ -267,7 +267,7 @@ Difficulty in healing (the level of emotional intensity required) increases in p
 
 The more one's ideologies and beliefs are perceived 'Truths', the greater the degree of change in the state of consciousness — a change in the position of awareness — required to know them for certain as Actual Truths or to realize them as Beliefs deeply held.
 
-The more that the perceptions, ideas, beliefs, and ideologies that one wants ot change provide a common context for all of one's experience sin life, the greater the degree of abstractness, pervasiveness, and comprehensiveness of the efforts required to change them.
+The more that the perceptions, ideas, beliefs, and ideologies that one wants to change provide a common context for all of one's experiences in life, the greater the degree of abstractness, pervasiveness, and comprehensiveness of the efforts required to change them.
 
 Where a blockage of emotion or a conflict of belief persists at a particular level of emotional intensity, the release of that blockage will require and involve a similar level of emotional intensity<a class='footnote' href='#footnote-00y'>[2]</a>.
 
