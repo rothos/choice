@@ -95,7 +95,7 @@ Each individual aphorism is intended to be a basis for deep reflective considera
 In order to gain more value from the content, the reader is encouraged to consider each passage on several occasions, at varying times of the day and season. In re-reading, points which seemed confusing at first may become easier to understand. Some connections between ideas, reflections, and continuations will be known only when one has read far enough in the text to encounter alternate ends of the same thought.
 
 
-## Aphorisms of <u>Life</u>
+## Aphorisms of Life
 
 ### The Nature of Self
 
@@ -173,7 +173,7 @@ One cannot become entrapped in a domain of one's own imagination. It is always p
 No physical boundaries can protect one from the innermost nature of spirit. One does not have to protect oneself from divinity (spirit). There can be no Fear of God(dess(es)).
 
 
-## Aphorisms of <u>Will</u>
+## Aphorisms of Will
 
 ### Aspects of Choice
 
@@ -201,9 +201,98 @@ One can only make choices in the present. One cannot choose in the past or in th
 
 ### Limitation and Freedom
 
+One cannot have freedom; one can only give freedom.  
+One does not own love or freedom; one may only participate in its flow and unboundedness.
+
+To be free is to be aware of potentiality and choice. Limitation is the realization of actuality and consequence.
+
+Limitation and freedom always occur together; they are inseparable. Freedom has an intrinsic, inherent, and irreducible aspect which is limitation. Limitation has an aspect which is freedom. Never does a freedom occur without a limitation, and never does a limitation occur without a freedom.
+
+Limitation is as necessary as freedom. Beingness requires focus<a class='footnote' href='#footnote-006'>[6]</a>. Diversity, separateness, limitation, the unknown, and forgetfulness are all to be valued as much as singularity, oneness, freedom, limitlessness, and knowing.
+
+All choice involves both freedom and limitation.
+
+There is nothing which is absolutely free and there is nothing which is absolutely limited and fixed. The action of creation is a realization of freedom, yet all acts of creation inherently involve limitation<a class='footnote' href='#footnote-007'>[7]</a>.
+
+There is no "transcendence" of limitation. One can work with limitations by adding to them: expanding freedoms by adding other levels, dimensions, and qualities.
+
+The limitations, patterns, and forms created or defined *<u>by</u>* the self are not limitations, patterns or forms *<u>of</u>* the self. Self has being in many other worlds than the one where these patterns, limitations, and forms are manifested, structured, and defined.
+
+<ol class='footnotes' start=6>
+    <li id='footnote-006'>Consider, for example, the action of discipline. Accepting a practice of discipline (a limitation) eventually results in a freedom to achieve optimal self-expression. There can be no limitation where there is no freedom, and there can be no freedom where there is no limitation. In being, the realization of either of the concepts of freedom and limitation implies the realization of the other.</li>
+    <li id='footnote-007'>Action is composed of many changes. Creation is composed of many choices, and always involves an element of freedom. Limitation always involves an element of causality. In the same way that limitation and freedom are inseparable, choice, change, and causality are also inseparable. They always occur together.</li>
+</ol>
+
+### The Cooperative Choice
+
+[…]
+
+### Choice Coordination
+
+[…]
+
+## Aphorisms of Love
+## Aphorisms of Mind
+## Aphorisms of Health
+
+### Joy and Pain
+
+[…]
+
+### Healing
+
+All healing involves touch and connection. Healing is contact. One heals through touching; whether it be touching with the hands, with a scalpel, or with the soul. When there is contact — touching — healing will happen.
+
+All forms of healing are ultimately forms of re-connecting. To heal is to make hale, to make whole, to connect all parts of oneself into one integral being. Joy and health in life nurtures, accepts, loves, and integrates all parts of self and life well and fully. This is the nature of spirituality.
+
+Healing is a growth. Growth and healing happen *between*. Like growth, healing does not have a source or an origin, personal or impersonal. Continuity underlies all dynamics and processes of growth.
+
+Mind negates absence, separation, and discontinuity. Where there is conflict, disconnection, or discontinuity in the fabric of one's perceptual matrix (the collection of all beliefs), there will be emotion and pain, drawing attention and awareness to the disconnection.
+
+Individually and culturally, one should always move attention and awareness into those areas which have pain and need to be healed. Acute situations are the result of persistently ignoring a chronic problem.
+
+The correction for obsession is not suppression, but extension. To focus on only one person or only one aspect of life — and to include nothing else — is a painful discontinuity: attention is uneven and in some places, absent. The lack of attention itself results in increased potentiality for painful surprises and experiences ("Everything is sudden to those who are blind").
+
+Healing involves a letting go of form and a return to feeling. Connection and integration will always create new potentials and choices.
+
+Manifestation is the movement of feeling into form. Attaching to a specific form of manifestation is to realize disappointment. In creation and manifestation, the resulting realized form will always be different than expected. Creation is cooperative and always involves more than self.
+
+To remain attached to only one specific form and to discard or reject all others is to suffer an obsession, and in this way, discontinuity and pain; the distribution of acceptance and awareness is not equi-tempered<a class='footnote' href='#footnote-00x'>[1]</a>. To let go of attachment to outer form allows for an acceptance of inner feeling (inner attachment). When the channels of feeling are opened, love can flow outward again and manifest as new and different forms.
+
+The peak strength of the feelings and emotions aroused will be in proportion to both the acuteness of the conflict of one's commonly held ideas and beliefs and the degree of contextual importance with which those beliefs are involved in one's life.
+
+The pattern, severity, and distribution of stress in the mind of self will define the pattern, severity, and distribution of conflict in one's life.
+
+Difficulty in healing (the level of emotional intensity required) increases in proportion to the pervasiveness and fixedness of the involved ideologies, beliefs, ideas, and perceptions. The required subjective intensity, (and inversely, the probably of success of a healing) is proportional to the inertia associated with the structures of the mind needing to be changed. The greater the intensity (emotional force) and the lower the degree of fixation in the patterns of one's thoughts, the more effective the healing.
+
+The more one's ideologies and beliefs are perceived 'Truths', the greater the degree of change in the state of consciousness — a change in the position of awareness — required to know them for certain as Actual Truths or to realize them as Beliefs deeply held.
+
+The more that the perceptions, ideas, beliefs, and ideologies that one wants ot change provide a common context for all of one's experience sin life, the greater the degree of abstractness, pervasiveness, and comprehensiveness of the efforts required to change them.
+
+Where a blockage of emotion or a conflict of belief persists at a particular level of emotional intensity, the release of that blockage will require and involve a similar level of emotional intensity<a class='footnote' href='#footnote-00y'>[2]</a>.
+
+The flexibility of mind increases, often suddenly, with increasing degrees of emotional intensity. All perceptions, ideas, beliefs, and ideologies, are changeable when there is sufficient intensity.
+
+Healings which are infrequent, singular, and which are directed to ultimate causes are more effective than multiple efforts toward multiple symptoms. As with all growth, sufficient time and peacefulness must occur between significant changes to allow for real integration. Healings which are too frequent, or which attempt to change more than one basic condition at a time, can easily lead to complex interactions and unexpected side effects.
+
+<ol class='footnotes' start=1>
+    <li id='footnote-00x'>For example, a depressed person must let go of the expected form of realization of their love in order to return to the essence and deep inner nature of that love.</li>
+    <li id='footnote-00y'>For example, the intensity necessary within the process of healing a traumatic experience will often need to be of a similar magnitude as that of the traumatic event itself. The difference between effective healing and an event of further pain is the context of safety, sacredness, knowledge, and awareness. In these cases, healing involves a special environment designed to handle that intensity; a context as much as a content.</li>
+</ol>
 
 
+### Changing Beliefs
 
+[…]
+
+### Society and Emotion
+
+[…]
+
+## Aphorisms of Action
+## Aphorisms of Being
+## Aphorisms of Evolution
+## Appendix
 
 
 <div style='margin-top: 10em'></div>
