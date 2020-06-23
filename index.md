@@ -225,13 +225,83 @@ The limitations, patterns, and forms created or defined *<u>by</u>* the self are
 
 ### The Cooperative Choice
 
-[…]
+All of choice is creative. Personal choice is the participation of self in the universal aspect of creation.
+
+All choice is cooperative. Choice can only be given, never taken.  
+Both creation and choice are necessarily and fundamentally cooperative.
+
+No other person's choices, nor any consensus belief system, can compel, force, or constrain anyone to choose or believe anything in particular.
+
+In the same manner that everything participates in change and causality, everything also has potentiality, possibility, and choice. One cannot choose in such a way that another cannot have choice. One cannot even choose not to have choice; to voluntarily 'not choose' is also a choice. Choice is Truly Owned.
+
+Choice is not conserved, finite, or limited; the self cannot "run out of choice(s)".  
+Creativity is not conserved; there is always more creativity and more choices.  
+Every choice creates and enables other choices. Choice always begets choice.
+
+Every choice is unique unto itself and can only be made once.
+
+Choice cannot take away from the beingness of choice itself.  
+Choice in the past can never reduce the amount or degree of choice in the present<a class='footnote' href='#footnote-008'>[8]</a>.
+
+Choice cannot absolutely fix or limit other choices. Choice can only enable other choices.
+
+Ultimately, there is never any control over that which is internal to self.  
+Desire has no reason and cannot be permanently constrained.  
+There is no control over creativity. Creation itself is not controllable or constrainable.
+
+No form of control is absolute; all process has some aspect of a cooperative nature. There is no control, there is only influence. It is fundamentally impossible to completely and/or absolutely control or constrain anything, in any domain, under any circumstances, ever.
+
+There are always other possibilities, probabilities, and potentialities. Any potentiality can be made actual.
+
+There cannot not continue to be creation and evolution in all worlds and in all domains. Creation is not an event. Creation is an aspect of events, rather than their source.
+
+Nothing within a world can prevent the creation of new events, the creation of a new world. One relation cannot ultimately limit the beingness of other relations. Interaction cannot prevent interaction; it can only beget it.
+
+All perception involves expression and all expression involves perception. In all the worlds in which one perceives and has feeling, there cannot not be a possibility of expression, a symbol and form of the self; a body projected as substance within that world. This symbol of mediation is the focus through which one expresses within that world. Where one perceives and has feeling, one cannot be fully silent (secret).
+
+Creativity does not happen somewhere or to someone; rather it is inherently everywhere and within everyone. One does not need to "tap into" something external to oneself to create, to heal, to know something or to have imagination. In the very process of living, each of these qualities will take its own form.
+
+Therefore, have faith in innate creativity and self-expression.  
+Where creativity is needed, it is always inherently available.
+
+<ol class='footnotes' start=8>
+    <li id='footnote-008'>Choice can set the context of other choices. While this shift in context could be viewed as a partial limitation and constraint on other choices, it is a choice to view it in this manner — a hidden choice that must also be considered as contributing to the total 'volume' of choice available to self in the present.</li>
+</ol>
 
 ### Choice Coordination
 
-[…]
+Self is not a thing, and it is not single, nor is it simple. Self (mind) cannot be defined or accumulated by any assembly of parts or theories. There is no 'unit' of self. A self is the product and integral synthesis of many aspects in natural communication.
+
+All worlds are open and unbounded at the scale of the absolute microscopic, even while they must appear to be closed and bounded at the scale of the absolute macroscopic. All that enters into a world appears first at the microscopic limit<a class='footnote' href='#footnote-009'>[9]</a>. All creativity begins as a single event of interaction and co-incidence in the smallest scales, everywhere at once. All expression is an assembly of microscopic moments of intention.
+
+The freedom of self to realize potential is directly related to the internal coherency, consistency, and continuity of that self. Where self is internally divided, there is much less freedom of choice.
+
+The strength of a potentiality, or creative manifestation, is realized in the organization and coherency of many microscopic eventualities. The strength (energy) of a choice is proportional to the number of sub-choices in alignment necessary to bring about the actuality of consequence. Each alignment is itself a choice; a choice within a choice.
+
+Change is not additive. Large, unbounded collections of 'insignificant small changes' can create overall effects far out of proportion to the apparent causes<a class='footnote' href='#footnote-010'>[10]</a>. The degree to which emergent, novel, and creative aspects are apparent is proportional to the degree to which there is a difference in scale between the mesoscopic<a class='footnote' href='#footnote-011'>[11]</a> scale (known) and microscopic (unknown).
+
+Creation and creativity inherently involve the microscopic and the momentary potentiality. Small, incremental changes occurring everywhere at once are more conducive to creative expression than suddenly-realized 'grand sweeping events'.
+
+The realization of choices at more encompassing levels of being is in the degree of the *coordination* of the choices which are distributed across the many selves of the encompassed levels of being<a class='footnote' href='#footnote-012'>[12]</a>.
+
+The degree of individual freedom in a society increases dramatically in proportion to the degree of cooperation among individuals. A society or culture is strong to the degree that *everyone* is allowed to live creatively and live together.
+
+A maximum of both acceptance and expression, unity and diversity, is necessary for a nation (society, tradition, religion, culture) to be strong. Diversity must be accepted and unity must be expressed. To have an expression of unity there must be an acceptance of diversity. To have an acceptance of diversity there must be an expression of unity. The strength of a nation is known as much through its flexibility and tolerance as through its commitments and follow-through.
+
+<ol class='footnotes' start=9>
+    <li id='footnote-009'>For example, the entrance of any new life (self) into a world always occurs through a single choice in multiple places (in the coincidence of at least two people). All birth begins at the smallest scale of existence.</li>
+    <li id='footnote-010'>This remains true, even though any small or bounded collection of microscopic eventualities will necessarily appear to have very little potentiality.</li>
+    <li id='footnote-011'><b>Mesoscopic</b>: middle scales; those ordinary ranges of size comparable to a human being.</li>
+    <li id='footnote-012'>For example, the realization of the choice to go to college is realized in a coordination (organization) of many smaller day-to-day choices to go to class, do one's homework, study, etc.</li>
+</ol>
 
 ## Aphorisms of Love
+
+### The Nature of Love
+
+Love is an experience, an expression, and an understanding.
+
+
 ## Aphorisms of Mind
 ## Aphorisms of Health
 
