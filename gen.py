@@ -97,7 +97,12 @@ for m in matches:
         replacements += \
             ["<a class='footnote' href='#footnote-%.3i'>[%i]</a>" \
                 % (index, index)]
-        footnotes += [(index, match_string[2:-2])]
+
+        ftext = match_string[2:-2]
+        if ftext[:3] != "<p>":
+            ftext = "<p>" + ftext + "</p>"
+
+        footnotes += [(index, ftext)]
         index += 1
 
 # Do all the replacements.

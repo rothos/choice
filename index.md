@@ -280,8 +280,102 @@ A maximum of both acceptance and expression, unity and diversity, is necessary f
 
 ### The Nature of Love
 
-Love is an experience, an expression, and an understanding.
+Love is an experience, an expression, and an understanding. It is the potentiality (essential quality) of all being. Where love is an experience it is a recognition, a knowing, and a realization of one's innermost feelings, dreams and desires. Love is potentiality, that pool of energy from which all desire, dreaming, and action is drawn. Where love is an expression it is the basis and the foundation of all emotion and desire (feeling).
 
+Where love is an understanding, *<u>**love** is that which enables choice</u>*. The quintessential meaning of Love refers to the quality of enabling and nurturing choice, joy, connectedness, and freedom. Love, in that it enables all life, significance, and choice, does not define or precondition being.
+
+Love IS, and cannot not be. Love is unbound and formless. Love cannot be constrained, modified or conditioned by anything which exists. Love is always free, infinite, and giving of freedom.
+
+Nothing which is in existence can prevent love from being loving. Nothing which has the nature of actuality can prevent the action of that which has the nature of potentiality, of creation.
+
+As an energy, love is an emotion rather than a feeling. Energy, as a potentiality, is movement, and is, therefore, to be considered in terms of its intensity and direction rather than in terms of its quality[[<p>The experience of "feeling love" (as a quality) is a reflection of one's desire and in this way is a recognition of potentiality. To consider the 'feeling of love' (rather than the potentiality of love) is to consider a <i>combination</i> of the energy of desire with a significant and personally meaningful quality. It is the added energy of desire and potentiality that encourages one to regard some feelings <u>as love</u> rather than as a feeling of something else.</p><p>The perfectly clear channel of unconditional acceptance (perfect love, which has no quality of feeling in itself) will be considered to have a subtle quality of feeling in direct proportion to the degree that some qualities, feelings, and experiences are regarded as easier to accept and integrate than others. It is in this way that the feeling of love is realized and known to the finite self as a feeling rather than as an unqualified perfection of potentiality. As one's spirituality expands and evolves, one's capacity to realize unconditional love also increases. Love is pure, and without particularity of feeling in proportion to the degree of one's spirituality.</p>]].
+
+Love is the most basic and fundamental emotion. Potentiality, desire, and energy are all intrinsic to all actuality, life, and being. Love is the energy and potentiality from which all other emotion, desire, want, and need, is drawn. All emotions have their root and ultimate basis in love.
+
+Ultimately, the principle of love is unconditional (perfect). The dynamic of love (as "love of doing") is in no way dependent on any specific or particular form, detail, or quality. Love in being (as in "the being of love") is the principle of unconditional acceptance (also perfect).
+
+Love has no opposite[[It is a misconception to think that 'hate' is the opposite of love; hate is only a distorted expression of love. hate has the strong intention and expectation of changing someone or something external to self in a manner which is either unconscious or covertly manipulative. Hate is a characterization of anger, and is thus secretly driven by love. The absence of love is not hate, but apathy.]]. Love is always the deepest and strongest emotion; stronger than fear, anger, or depression.
+
+Love is always and forever given and received in a unique manner, with unique qualities. One cannot expect to receive love and nurturance in the same manner in which it is given.
+
+Love has only the intention of giving. It is never about exchange or expectation. Love has no price; it cannot be bartered or exchanged for anything in the marketplace. Love can only arise as a natural dynamic of the potentiality, creativity, and evolution of being.
+
+Love cannot be forced. It can never be conditioned or earned. Only respect can be earned and conditioned (to compel to be given).
+
+Do something "good" that very few others can do and you <u>will</u> earn respect (an actuality to an actuality).  
+Do not do something "bad" that nearly everyone one does, and you *might* be loved (a potentiality to a potentiality).
+
+Respect is more meaningful when it is a reflection of one's actions (what one has done or is currently doing).  
+Love is more meaningful when it is an acknowledgment of one's natural being (what one could potentially be).
+
+One does not "have" love, one may only give it. No amount of the giving of love ever diminishes love or the potentiality of further love.
+
+Love and choice are inherently unreasonable and illogical (non-causal). One can never be expected to give a reasonable or logical basis for one's values, desires, or creative decisions[[To the degree that one is able to give a 'reason' for their love, one is expressing a statement of <u>purpose</u>. Defining a relationship in terms of purpose is to describe a business transaction rather than an intimate and inherently meaningful connection. A statement of purpose is not a statement of value; it has no inherent significance. All life is lost when feeling, desire, and love are regarded as without value or significance.]]. Love is best understood and enacted in life in terms of significance, rather than structure, purpose, reason, or monetary value.
+
+Divinity is best known by both love and gratitude. The action of **Love** is to give potentiality (to the world). The action of **Gratitude** is to receive potentiality (from the world).  One feels gratitude and allows a feeling of thankfulness when one accepts and has acceptance. The action of love and gratitude is the action of spirituality, of connecting oneself with the divine.
+
+Love is an acceptance in giving, receiving, and feeling. The movement of love is a movement of self, a flow of potentiality from oneself to another self, a flow of feeling, thought, and perception.
+
+To know love, one must participate in its unbounded flow.  
+Love is known by its continuity rather than by its symmetry.
+
+In that love is unconditional, acceptance is also unconditional. The effective realization of either unconditional love or unconditional acceptance necessarily implies the effective realization of the other.
+
+The meaning of the term 'acceptance' is not the same as "to give up one's own choice". Acceptance and choice are distinct concepts. Choice is not acceptance. Acceptance is not choice. Acceptance is ultimately not a choice (eventually, everyone must accept at least something). Acceptance is about perception, the integration of perceptions into self. In contrast, choice is about expression. Both are necessary in one's own life.
+
+{{footnotes}}
+
+### The Nature of Desire
+
+Love in its most abstract and *impersonal* sense is pure potentiality, pure energy without quality or form.  
+Self in its most abstract and *personal* sense is pure quality without energy or form.
+
+Desire is the combination and synthesis of the quality of self with the energy of love. Ultimate desire is the synthesis of the unlimited expansiveness of impersonal love and the infinitely detailed nature of one's innermost personal quality.
+
+Desire is at once the basis for all choice, the potentiality to choose, and the selectivity of those choices.
+
+Desires are interrelated. They do not occur in isolation and are interdependent with other desires.
+
+Desires have various degrees of depth. Some desires are formed as an implementation of a deeper desire. The knowledge, resolution, and attainment of deeper desires will often decrease the intensity of many other surface desires.
+
+Surface desires are often conflicted; one's deepest desires are never conflicted.
+
+The meaning of a surface desire is clarified when its foundation in deeper desire is known. When surface desires appear to be in conflict, the knowledge and realization of one's deeper desires will always resolve that conflict.
+
+When desires are confused (i.e., are internally conflicting or are unclear), or when one has conflicting ideas and beliefs, one has effectively become two smaller selves, each of which has significantly less freedom of choice.
+
+One chooses most effectively when choosing as a unified self as a whole being, with attunement and at-one-ment with one's own innermost (deepest) desires.
+
+### The Basal Motivations
+
+**The Basal Motivations of All Life:** There are two ultimate desires inherent in all being:
+
+- The desire to create and be creative (the expression of self-quality).
+- The desire to experience and have experiences (the perception of form).
+
+The most basic desire inherent in all consciousness is to maximize the degree (quantity), diversity (quality), and intensity of both the creative experience and the experience of creativity.
+
+The ultimate purpose of evolution is to simultaneously maximize the degree of experience and creativity of all aspects of life, in all aspects of life.
+
+The basal motivations are at the foundation of all desire and all cognition. Together they are the basis for and foundation of all love, life, growth, evolution, transformation, interaction, communication, learning, experimentation, being, and doing.
+
+Creativity is expressive. It has its basis in potentiality.  
+Experience is perceptive. It has its basis in actuality.  
+Both actuality and potentiality need to be maximized for the full realization of life.  
+Quality is as important as quantity. Potentiality is as important as actuality.
+
+To maximize actuality (quantity) is to maximize experience and clear acceptance;  
+the integrity of self, world, and symmetry in the relations between self and world.  
+To maximize potentiality (quality) is to maximize nurturing choice and expression;  
+the creativity of self, world, and continuity in the relations between self and world.
+
+Creativity and experience are at a maximum when the greatest possible degree of the combination of static and dynamic aspects are realized. A maximum intensity of action occurs where elements of dynamic choice and creativity are intimately combined with elements of stable causality and experience.
+
+All natural selection seeks to maximize both potentiality/creativity/evolution and actuality/experience/interaction. Optimal changes are ones which maximize the realization of future choices and the manifestation of past causality.
+
+### Desire, Want, and Need
+
+[…]
 
 ## Aphorisms of Mind
 ## Aphorisms of Health
