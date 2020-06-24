@@ -1,4 +1,6 @@
 import io
+import re
+import pdb
 from markdown import markdown
 from datetime import datetime
 
@@ -61,6 +63,50 @@ html = """
 
 infile = io.open('index.md', mode='r', encoding='utf-8')
 text = infile.read()
+
+# Process the footnotes.
+index = 1
+locations = []
+replacements = []
+footnotes = []
+
+# Here is our regex, matching both footnotes and footnote section tags.
+exp = re.compile('(\[\[.*?\]\]|\{\{footnotes\}\})')
+matches = exp.finditer(text)
+
+# Loop through each of the matches.
+for m in matches:
+    locations += [m.span()]
+    match_string = m.group()
+
+    # This is a footnote section.
+    # Collect all the footnotes up to this point, flush them out
+    # into a section.
+    if match_string == '{{footnotes}}':
+        ol = "<ol class='footnotes' start=%i>\n%s\n</ol>"
+        make_li = lambda i,s: "<li id='footnote-%.3i'>%s</li>" % (i, s)
+
+        initial_index = footnotes[0][0]
+        li_str = "\n".join([make_li(i,s) for (i,s) in footnotes])
+
+        replacements += [ol % (initial_index, li_str)]
+        footnotes = []
+
+    # This is a footnote.
+    else:
+        replacements += \
+            ["<a class='footnote' href='#footnote-%.3i'>[%i]</a>" \
+                % (index, index)]
+        footnotes += [(index, match_string[2:-2])]
+        index += 1
+
+# Do all the replacements.
+replace_substr = lambda loc,string,rep: string[:loc[0]] + rep + string[loc[1]:]
+for i in reversed(range(len(locations))):
+    loc = locations[i]
+    rep = replacements[i]
+    text = replace_substr(loc, text, rep)
+
 rendered_text = markdown(text).encode('utf-8')
 infile.close()
 

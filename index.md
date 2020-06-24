@@ -59,7 +59,7 @@ In order to be of the greatest possible value, this book has been formatted as a
 
 As such, this book contains no exhaustive (and exhausting) explanations, metaphors or statements of implication. While such content might date understanding *in the short-term,* it can often result in long-term misunderstanding. Requiring the reader to wade through many histories, metaphors, an examples can obscure those essential concepts intended for immediate practical application.
 
-Emphasis on a precise meaning is not to be construed as an attempt to logically prove the formal correctness of any of the assertions herein<a class='footnote' href='#footnote-001'>[1]</a>. This work is intended to provide maximum benefit to those who would actually <u>apply</u> these ideas. It is expected that the readers of this book will be interested in satisfying the immediate concerns of their daily lives.
+Emphasis on a precise meaning is not to be construed as an attempt to logically prove the formal correctness of any of the assertions herein[[It is expected that most readers would find little significance in speculating whether this book is momentarily satisfies the technical demands of a handful of abstract theorists. However, there is a formal basis and foundation for all of the content in this book. Readers who are interested in the deeper metaphysical dynamics underlying all of this material should contact the author for more information.]]. This work is intended to provide maximum benefit to those who would actually <u>apply</u> these ideas. It is expected that the readers of this book will be interested in satisfying the immediate concerns of their daily lives.
 
 This summary of seed ideas and concepts is not an attempt to "convince" anyone of anything. Readers looking to be convinced that some philosophical proposition is 'absolutely true' must do their own research to determine, prove, and validate their own notions of truth.
 
@@ -70,9 +70,7 @@ To search for meaning is to find it.<br/>
 To fail to search for meaning is to be without it.
 </div>
 
-<ol class='footnotes' start=1>
-    <li id='footnote-001'>It is expected that most readers would find little significance in speculating whether this book is momentarily satisfies the technical demands of a handful of abstract theorists. However, there is a formal basis and foundation for all of the content in this book. Readers who are interested in the deeper metaphysical dynamics underlying all of this material should contact the author for more information.</li>
-</ol>
+{{footnotes}}
 
 ### A Reader's Covenant
 
@@ -108,25 +106,22 @@ Others may be able to influence what choices are apparently available; however, 
 
 Choice applies and is available to all of being, and all levels and aspects of being, for all time. There is no single level or 'unit' of being at which choice only applies, for all of self is involved in the action of choosing. There is no part or level of self which is without choice.
 
-One's being, the eventity<a class='footnote' href='#footnote-002'>[2]</a> of **self**, is the <u>product</u> of  
+One's being, the eventity[[The term <b>Eventity</b> refers to the combination of the meanings of an entity (thing) and an event. Each interaction, comparison, and being is an eventity.]] of **self**, is the <u>product</u> of  
 the sum of all of the choices that one has made, and  
 the sum of all of the choices that one could make.
 
 Self does not own or have choice; rather, self is the evolving context of many choices.  
 The self arises our of the many common contexts of choice.  
-The nature of choice is more basic, more fundamental, than the nature of self<a class='footnote' href='#footnote-003'>[3]</a>.
+The nature of choice is more basic, more fundamental, than the nature of self[[Technically, a more correct assertion is that 'choice makes self' or that <u>choice has Self</u>. Self is an intrinsic of choice. The idea that 'self has or makes choice' is inaccurate since choice is not 'owned' or 'had' by the self so much as a singularity of self (the common context of selection) is the outcome of a plurality of choices.]].
 
 Self (consciousness, mind) is neither the purely subjective, nor the purely objective; it is a dynamic of transformation, the boundary and interconnection between the inner subjective and the outer objective.
 
-<ol class='footnotes' start=2>
-    <li id='footnote-002'>The term <b>Eventity</b> refers to the combination of the meanings of an entity (thing) and an event. Each interaction, comparison, and being is an eventity.</li>
-    <li id='footnote-003'>Technically, a more correct assertion is that 'choice makes self' or that <u>choice has Self</u>. Self is an intrinsic of choice. The idea that 'self has or makes choice' is inaccurate since choice is not 'owned' or 'had' by the self so much as a singularity of self (the common context of selection) is the outcome of a plurality of choices.</li>
-</ol>
+{{footnotes}}
 
 ### True Ownership
 
 **Law of True Ownership:** "None can take from you that which you truly own".  
-If someone or something can take some thing, some property, or some quality away, even in principle, then it was never truly owned; it is not a part of one's unique Self<a class='footnote' href='#footnote-004'>[4]</a>.
+If someone or something can take some thing, some property, or some quality away, even in principle, then it was never truly owned; it is not a part of one's unique Self[[Examples: Experience, choice, time, and validity are Truly Owned.]].
 
 Those things which are not Truly Owned are not owned at all.  
 There can be no ownership of that which is external to oneself.
@@ -145,9 +140,7 @@ Self is always sovereign. The nature of the being of self is not and cannot ever
 
 No amount of external acceptance or validation will ever contribute to any degree of self-acceptance. To feel peace, one must accept oneself totally, fully, and unconditionally. This is the essence and the initiation of health, strength, integrity, and spirituality.
 
-<ol class='footnotes' start=4>
-    <li id='footnote-004'>Examples: Experience, choice, time, and validity are Truly Owned.</li>
-</ol>
+{{footnotes}}
 
 ### Absolute Inner Security
 
@@ -179,7 +172,7 @@ No physical boundaries can protect one from the innermost nature of spirit. One 
 
 The essence of choice is resolved into exactly three necessary and sufficient concepts: potentiality, selection, and consequence. Without all of these, there is no choice (an impossible condition).
 
-For choice to be choice, it must have consequences<a class='footnote' href='#footnote-005'>[5]</a>. A choice that has no effects, or whose effects can be completely undone, is not actually a choice at all; it is inherently an illusion.
+For choice to be choice, it must have consequences[[When "not choosing" has real consequences and effects, it too must necessarily be considered a choice.]]. A choice that has no effects, or whose effects can be completely undone, is not actually a choice at all; it is inherently an illusion.
 
 *All that is without choice, change, and consequence (causality) is illusion.*  
 Only that which is at once choice, change, and causality is **real**.
@@ -195,9 +188,7 @@ The focus and strength of choice is at a maximum where attention is at maximum. 
 
 One can only make choices in the present. One cannot choose in the past or in the future. In that the overwhelming majority of one's being is here and now, so also are one's choices most effective here and now. Focus in the present concentrates the effectiveness of choice.
 
-<ol class='footnotes' start=5>
-    <li id='footnote-005'>When "not choosing" has real consequences and effects, it too must necessarily be considered a choice.</li>
-</ol>
+{{footnotes}}
 
 ### Limitation and Freedom
 
@@ -208,20 +199,17 @@ To be free is to be aware of potentiality and choice. Limitation is the realizat
 
 Limitation and freedom always occur together; they are inseparable. Freedom has an intrinsic, inherent, and irreducible aspect which is limitation. Limitation has an aspect which is freedom. Never does a freedom occur without a limitation, and never does a limitation occur without a freedom.
 
-Limitation is as necessary as freedom. Beingness requires focus<a class='footnote' href='#footnote-006'>[6]</a>. Diversity, separateness, limitation, the unknown, and forgetfulness are all to be valued as much as singularity, oneness, freedom, limitlessness, and knowing.
+Limitation is as necessary as freedom. Beingness requires focus[[Consider, for example, the action of discipline. Accepting a practice of discipline (a limitation) eventually results in a freedom to achieve optimal self-expression. There can be no limitation where there is no freedom, and there can be no freedom where there is no limitation. In being, the realization of either of the concepts of freedom and limitation implies the realization of the other.]]. Diversity, separateness, limitation, the unknown, and forgetfulness are all to be valued as much as singularity, oneness, freedom, limitlessness, and knowing.
 
 All choice involves both freedom and limitation.
 
-There is nothing which is absolutely free and there is nothing which is absolutely limited and fixed. The action of creation is a realization of freedom, yet all acts of creation inherently involve limitation<a class='footnote' href='#footnote-007'>[7]</a>.
+There is nothing which is absolutely free and there is nothing which is absolutely limited and fixed. The action of creation is a realization of freedom, yet all acts of creation inherently involve limitation[[Action is composed of many changes. Creation is composed of many choices, and always involves an element of freedom. Limitation always involves an element of causality. In the same way that limitation and freedom are inseparable, choice, change, and causality are also inseparable. They always occur together.]].
 
 There is no "transcendence" of limitation. One can work with limitations by adding to them: expanding freedoms by adding other levels, dimensions, and qualities.
 
 The limitations, patterns, and forms created or defined *<u>by</u>* the self are not limitations, patterns or forms *<u>of</u>* the self. Self has being in many other worlds than the one where these patterns, limitations, and forms are manifested, structured, and defined.
 
-<ol class='footnotes' start=6>
-    <li id='footnote-006'>Consider, for example, the action of discipline. Accepting a practice of discipline (a limitation) eventually results in a freedom to achieve optimal self-expression. There can be no limitation where there is no freedom, and there can be no freedom where there is no limitation. In being, the realization of either of the concepts of freedom and limitation implies the realization of the other.</li>
-    <li id='footnote-007'>Action is composed of many changes. Creation is composed of many choices, and always involves an element of freedom. Limitation always involves an element of causality. In the same way that limitation and freedom are inseparable, choice, change, and causality are also inseparable. They always occur together.</li>
-</ol>
+{{footnotes}}
 
 ### The Cooperative Choice
 
@@ -241,7 +229,7 @@ Every choice creates and enables other choices. Choice always begets choice.
 Every choice is unique unto itself and can only be made once.
 
 Choice cannot take away from the beingness of choice itself.  
-Choice in the past can never reduce the amount or degree of choice in the present<a class='footnote' href='#footnote-008'>[8]</a>.
+Choice in the past can never reduce the amount or degree of choice in the present[[Choice can set the context of other choices. While this shift in context could be viewed as a partial limitation and constraint on other choices, it is a choice to view it in this manner — a hidden choice that must also be considered as contributing to the total 'volume' of choice available to self in the present.]].
 
 Choice cannot absolutely fix or limit other choices. Choice can only enable other choices.
 
@@ -264,36 +252,29 @@ Creativity does not happen somewhere or to someone; rather it is inherently ever
 Therefore, have faith in innate creativity and self-expression.  
 Where creativity is needed, it is always inherently available.
 
-<ol class='footnotes' start=8>
-    <li id='footnote-008'>Choice can set the context of other choices. While this shift in context could be viewed as a partial limitation and constraint on other choices, it is a choice to view it in this manner — a hidden choice that must also be considered as contributing to the total 'volume' of choice available to self in the present.</li>
-</ol>
+{{footnotes}}
 
 ### Choice Coordination
 
 Self is not a thing, and it is not single, nor is it simple. Self (mind) cannot be defined or accumulated by any assembly of parts or theories. There is no 'unit' of self. A self is the product and integral synthesis of many aspects in natural communication.
 
-All worlds are open and unbounded at the scale of the absolute microscopic, even while they must appear to be closed and bounded at the scale of the absolute macroscopic. All that enters into a world appears first at the microscopic limit<a class='footnote' href='#footnote-009'>[9]</a>. All creativity begins as a single event of interaction and co-incidence in the smallest scales, everywhere at once. All expression is an assembly of microscopic moments of intention.
+All worlds are open and unbounded at the scale of the absolute microscopic, even while they must appear to be closed and bounded at the scale of the absolute macroscopic. All that enters into a world appears first at the microscopic limit[[For example, the entrance of any new life (self) into a world always occurs through a single choice in multiple places (in the coincidence of at least two people). All birth begins at the smallest scale of existence.]]. All creativity begins as a single event of interaction and co-incidence in the smallest scales, everywhere at once. All expression is an assembly of microscopic moments of intention.
 
 The freedom of self to realize potential is directly related to the internal coherency, consistency, and continuity of that self. Where self is internally divided, there is much less freedom of choice.
 
 The strength of a potentiality, or creative manifestation, is realized in the organization and coherency of many microscopic eventualities. The strength (energy) of a choice is proportional to the number of sub-choices in alignment necessary to bring about the actuality of consequence. Each alignment is itself a choice; a choice within a choice.
 
-Change is not additive. Large, unbounded collections of 'insignificant small changes' can create overall effects far out of proportion to the apparent causes<a class='footnote' href='#footnote-010'>[10]</a>. The degree to which emergent, novel, and creative aspects are apparent is proportional to the degree to which there is a difference in scale between the mesoscopic<a class='footnote' href='#footnote-011'>[11]</a> scale (known) and microscopic (unknown).
+Change is not additive. Large, unbounded collections of 'insignificant small changes' can create overall effects far out of proportion to the apparent causes[[This remains true, even though any small or bounded collection of microscopic eventualities will necessarily appear to have very little potentiality.]]. The degree to which emergent, novel, and creative aspects are apparent is proportional to the degree to which there is a difference in scale between the mesoscopic[[<b>Mesoscopic</b>: middle scales; those ordinary ranges of size comparable to a human being.]] scale (known) and microscopic (unknown).
 
 Creation and creativity inherently involve the microscopic and the momentary potentiality. Small, incremental changes occurring everywhere at once are more conducive to creative expression than suddenly-realized 'grand sweeping events'.
 
-The realization of choices at more encompassing levels of being is in the degree of the *coordination* of the choices which are distributed across the many selves of the encompassed levels of being<a class='footnote' href='#footnote-012'>[12]</a>.
+The realization of choices at more encompassing levels of being is in the degree of the *coordination* of the choices which are distributed across the many selves of the encompassed levels of being[[For example, the realization of the choice to go to college is realized in a coordination (organization) of many smaller day-to-day choices to go to class, do one's homework, study, etc.]].
 
 The degree of individual freedom in a society increases dramatically in proportion to the degree of cooperation among individuals. A society or culture is strong to the degree that *everyone* is allowed to live creatively and live together.
 
 A maximum of both acceptance and expression, unity and diversity, is necessary for a nation (society, tradition, religion, culture) to be strong. Diversity must be accepted and unity must be expressed. To have an expression of unity there must be an acceptance of diversity. To have an acceptance of diversity there must be an expression of unity. The strength of a nation is known as much through its flexibility and tolerance as through its commitments and follow-through.
 
-<ol class='footnotes' start=9>
-    <li id='footnote-009'>For example, the entrance of any new life (self) into a world always occurs through a single choice in multiple places (in the coincidence of at least two people). All birth begins at the smallest scale of existence.</li>
-    <li id='footnote-010'>This remains true, even though any small or bounded collection of microscopic eventualities will necessarily appear to have very little potentiality.</li>
-    <li id='footnote-011'><b>Mesoscopic</b>: middle scales; those ordinary ranges of size comparable to a human being.</li>
-    <li id='footnote-012'>For example, the realization of the choice to go to college is realized in a coordination (organization) of many smaller day-to-day choices to go to class, do one's homework, study, etc.</li>
-</ol>
+{{footnotes}}
 
 ## Aphorisms of Love
 
@@ -327,7 +308,7 @@ Healing involves a letting go of form and a return to feeling. Connection and in
 
 Manifestation is the movement of feeling into form. Attaching to a specific form of manifestation is to realize disappointment. In creation and manifestation, the resulting realized form will always be different than expected. Creation is cooperative and always involves more than self.
 
-To remain attached to only one specific form and to discard or reject all others is to suffer an obsession, and in this way, discontinuity and pain; the distribution of acceptance and awareness is not equi-tempered<a class='footnote' href='#footnote-00x'>[1]</a>. To let go of attachment to outer form allows for an acceptance of inner feeling (inner attachment). When the channels of feeling are opened, love can flow outward again and manifest as new and different forms.
+To remain attached to only one specific form and to discard or reject all others is to suffer an obsession, and in this way, discontinuity and pain; the distribution of acceptance and awareness is not equi-tempered[[For example, a depressed person must let go of the expected form of realization of their love in order to return to the essence and deep inner nature of that love.]]. To let go of attachment to outer form allows for an acceptance of inner feeling (inner attachment). When the channels of feeling are opened, love can flow outward again and manifest as new and different forms.
 
 The peak strength of the feelings and emotions aroused will be in proportion to both the acuteness of the conflict of one's commonly held ideas and beliefs and the degree of contextual importance with which those beliefs are involved in one's life.
 
@@ -339,17 +320,13 @@ The more one's ideologies and beliefs are perceived 'Truths', the greater the de
 
 The more that the perceptions, ideas, beliefs, and ideologies that one wants to change provide a common context for all of one's experiences in life, the greater the degree of abstractness, pervasiveness, and comprehensiveness of the efforts required to change them.
 
-Where a blockage of emotion or a conflict of belief persists at a particular level of emotional intensity, the release of that blockage will require and involve a similar level of emotional intensity<a class='footnote' href='#footnote-00y'>[2]</a>.
+Where a blockage of emotion or a conflict of belief persists at a particular level of emotional intensity, the release of that blockage will require and involve a similar level of emotional intensity[[For example, the intensity necessary within the process of healing a traumatic experience will often need to be of a similar magnitude as that of the traumatic event itself. The difference between effective healing and an event of further pain is the context of safety, sacredness, knowledge, and awareness. In these cases, healing involves a special environment designed to handle that intensity; a context as much as a content.]].
 
 The flexibility of mind increases, often suddenly, with increasing degrees of emotional intensity. All perceptions, ideas, beliefs, and ideologies, are changeable when there is sufficient intensity.
 
 Healings which are infrequent, singular, and which are directed to ultimate causes are more effective than multiple efforts toward multiple symptoms. As with all growth, sufficient time and peacefulness must occur between significant changes to allow for real integration. Healings which are too frequent, or which attempt to change more than one basic condition at a time, can easily lead to complex interactions and unexpected side effects.
 
-<ol class='footnotes' start=1>
-    <li id='footnote-00x'>For example, a depressed person must let go of the expected form of realization of their love in order to return to the essence and deep inner nature of that love.</li>
-    <li id='footnote-00y'>For example, the intensity necessary within the process of healing a traumatic experience will often need to be of a similar magnitude as that of the traumatic event itself. The difference between effective healing and an event of further pain is the context of safety, sacredness, knowledge, and awareness. In these cases, healing involves a special environment designed to handle that intensity; a context as much as a content.</li>
-</ol>
-
+{{footnotes}}
 
 ### Changing Beliefs
 
