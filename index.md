@@ -375,9 +375,57 @@ All natural selection seeks to maximize both potentiality/creativity/evolution a
 
 ### Desire, Want, and Need
 
-[…]
+Love has three aspects: Desire, want, and need.  
+These aspects refer to the quality, form, and intensity of love respectively.  
+Want, need, and desire are distinct, inseparable, and non-interchangeable.  
+Each has its place, value, and validity.
+
+The meaning of want, need, and desire are distinguished by where they arise and where they are realized. Considering the self as a conduit of connection between spirit and matter, soul and body:
+
+- **Desires** are feelings that arise within the soul to affect the self.  
+  They can only be realized from within the soul (an aspect of spirit).
+- **Needs** arise within the self and can only be realized within the self (an aspect of mind).
+- **Wants** come from the outer world and arise within the body to affect the self.  
+  They can only be realized within or through the body (an aspect of world).
+
+Wants, needs, and desires are abstractions of thoughts, feelings, and emotions respectively.  
+They are instructions[['Ab-stract' as "out of form". 'In-struct' as "into form".]] of purpose, value, and meaning respectively.  
+A life must realize all three, in proper balance, to be complete.
+
+The realization of a feeling occurs in the same location and depth of self as that from which it arose.  
+The satisfaction of a feeling is always a return to the origin of that feeling[[Feelings, thoughts, and emotions are not just aspects of that part of self known as 'mind' but as aspects of <i>all</i> of self. For example, feeling arise in the soul, the self, and the body.]].
+
+{{footnotes}}
+
+### Effective Choice
+
+An **Effective choice** is one that results in the realization and manifestation of desire[[Note: Effectiveness is defined in terms of desire rather than in terms of either want or need.]].
+
+The most effective choices are those which maximally support creativity and experience in the world, in the self, and in the dynamics between them.
+
+An ultimately effective choice is one which realizes (manifests) the ultimate desires of all that is making that choice and all that is affected by that choice.
+
+The ultimate innermost nature of self/soul is good. Ineffective actions and choices result from a lack of clarity between the soul and the mind. To have a lack of clarity is to have a lack of knowing and of understanding; it is an absence of wisdom.
+
+To improve one's knowing and understanding is to increase clarity within the self, the effectiveness of one's choices, and the degree to which one experiences joy/happiness. Those who choose ineffectively can be nurtured and healed by enabling them to increase their degree of knowledge and understanding (i.e., teaching by example).
+
+The most effective choices provide or result in the greatest degree of wholeness and integrity of both self and world (necessary for experience), while at the same time allowing for the greatest freedom to make additional future choices for oneself and others (necessary for creativity).
+
+The degree of effectiveness of one's choices is proportional to the product of the degree to which one's choices and their results, coherently maintain, sustain, enhance, and nurture:
+
+1. the integrity and wholeness (the actuality and actualization) of the world, the self, and the relation between world and self.
+2. the potentiality/realization/evolution of creativity and experience in all of life, including one's own life (the degree to which it potentiates other choices).
+
+Perception is effective to the degree that it is dispassionate, without judgment, precondition, or expectation.
+
+Expression is effective to the degree that it is passionate — a reflection of one's dreams and inspiration — and is a clear manifestation of one's highest hopes and aspirations.
+
+{{footnotes}}
 
 ## Aphorisms of Mind
+
+{{footnotes}}
+
 ## Aphorisms of Health
 
 ### Joy and Pain

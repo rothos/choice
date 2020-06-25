@@ -86,10 +86,13 @@ for m in matches:
         ol = "<ol class='footnotes' start=%i>\n%s\n</ol>"
         make_li = lambda i,s: "<li id='footnote-%.3i'>%s</li>" % (i, s)
 
-        initial_index = footnotes[0][0]
-        li_str = "\n".join([make_li(i,s) for (i,s) in footnotes])
+        if len(footnotes):
+            initial_index = footnotes[0][0]
+            li_str = "\n".join([make_li(i,s) for (i,s) in footnotes])
+            replacements += [ol % (initial_index, li_str)]
+        else:
+            replacements += [""]
 
-        replacements += [ol % (initial_index, li_str)]
         footnotes = []
 
     # This is a footnote.
