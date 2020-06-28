@@ -51,7 +51,7 @@ For myself and on behalf of all the readers of this book, you have my thanks.
 
 This book contains a distillation and summary of the most useful and practical ideas of the Immanent Metaphysics. These ideas are presented with the intent of enabling the reader to lead a more meaningful, healthy life. This book represents a personal search for those concepts believed to be of maximum value and usefulness in making effective choices. The intent is to provide the philosophical foundations necessary for people in western culture to enhance the quality of all life.
 
-Rather than attempt to be a final work on the philosophy of choice, the aim of this book is to provide potent seed ideas and concepts for further reflection and development. The ideas presented herein are starting points for deeper consideration, meditation, an devolution. As a summary, this book contains only as much text as is needed to gracefully outline those notions which are of maximum significance and importance in the living of a high quality life. Emphasis on clarity and essence is inherent in this philosophy.
+Rather than attempt to be a final work on the philosophy of choice, the aim of this book is to provide potent seed ideas and concepts for further reflection and development. The ideas presented herein are starting points for deeper consideration, meditation, and devolution. As a summary, this book contains only as much text as is needed to gracefully outline those notions which are of maximum significance and importance in the living of a high quality life. Emphasis on clarity and essence is inherent in this philosophy.
 
 ### The Format of Presentation
 
@@ -424,7 +424,190 @@ Expression is effective to the degree that it is passionate — a reflection of 
 
 ## Aphorisms of Mind
 
+### Emotions, Thoughts, and Feelings
+
+Emotions, thoughts, and feelings are distinct[[Western culture has a tendency to confuse emotion and feeling. They are not the same. As a metaphor, to consider a beam of light in terms of its direction and intensity (emotion) is not to consider it in terms of its color (feeling).]], inseparable, and non-interchangeable aspects of mind. Feelings are not emotions. Thoughts are not feelings.
+
+- Each **emotion** refers to a strength, direction, and flow of energy in the mind.  
+  Emotion is the intensity and the direction of the flows of expression and experience.
+- Each **thought** refers to a form, structure, or pattern of perception or expression.  
+  Thoughts refer to an energy of the self which has become fixed in form.  
+  Thoughts are the form, pattern, and structure of the flows of mind.
+- Each **feeling** refers to a quality of energy, regardless of its direction, form or intensity of the flow in mind.  
+  Feelings refer to qualities, timbres, and colors of one's experiences and expressions.
+
+To discuss emotion is to discuss only the intensity and direction of the flow of one's mind.  
+To discuss thought is to discuss only the form, pattern, and structure of those flows.  
+To discuss feeling is to discuss only the quality, timbre, and color of those flows.
+
+Emotions are experienced in terms of intensity. Thoughts are experienced in terms of form and quantity. Feelings are experienced in terms of color and quality.
+
+Emotions are ultimate, basic and simple, whereas thoughts and feelings are inherently complex.
+
+Emotions are considered in terms of their power and intensity.  
+The self which experiences these emotions is considered in terms of strength.
+
+Thoughts are mostly structure and have very little energy (static).  
+Emotions are mostly energy (very dynamic) and have little structure.  
+Neither thought, pattern, form, nor energy are in themselves quality.
+
+Emotion is the energy that moves the self, moves through the self, or moves from the self.  
+Emotions are the potentialities by which changes may be made in the dynamics of self.
+
+Emotion (energy) changes thought, perception, and expression. Desire (feeling) shapes the power of emotion (its direction of expression and intensity) and emotion is the basis by which thought is shaped within the mind. All perception and expression is itself a process of emotion.
+
+One cannot have feelings without thoughts and emotions.  
+One cannot have thoughts without also having emotions and feelings.  
+One cannot have emotions without also having thoughts and feelings.
+
+One must (cannot not) have feelings. Feelings are. Similarly, one cannot not have emotions and thoughts.
+
+The degree to which the soul evolves is in proportion to the degree to which the self continues to choose to be aware of, is aware of, and consciously experiences feeling.
+
+Emotion influences thinking and feeling; thinking influences feeling and emotion; feeling influences emotion and thinking.
+
+Each thought is a static result, a distillation of a specific aspect of one's perception. Thinking is a process of change in, and transformation of, perception. Thinking intrinsically involves energy. The emotions of one's mind are the flow of changes in thought, perception, and thinking, even as one's thoughts confine and direct the flow of emotion and change[[Emotions are like the flow of a river. The course of a river is at once shaped by its banks (thought shapes emotion) even as the river gradually shifts those banks (over time, the course of a river changes).]].
+
+Thoughts are static; feelings are dynamic. Feelings can only change.  
+Feelings are never purely chosen or conditioned.
+
+One's feelings cannot be controlled by anything internal or external to oneself. The feelings that one has are never causal or reasonable or logical; or just the result of only causal, logical, or reasonable processes.
+
+Nothing in the world can force or condition one to feel a certain way or to have a specific feeling with predictable and definite qualities. One's feelings are always personal, Truly Owned by oneself.
+
+Where there is perception, experience, or causality, there is also expression, choice, and change.  
+All of life (all beingness at all scales of all domains) must grow, expand, and become more.
+
 {{footnotes}}
+
+### The Dynamics of Emotion
+
+Emotions are "the energy that moves the mind" (as e-motion). They literally power, or give strength to, one's thoughts.
+
+Emotion has a reasonable and orderly pattern, connected to our choices, intentions, and inner nature. Emotion is the energy that moves the mind of self.
+
+There are five basic and primary emotions. These are the foundation from which all other emotions are derived. They are love, fear, anger, frustration, and depression. These five emotions occur in definite patterns and are related to a specific occurrence of thoughts, perceptions, and feelings.
+
+Emotion is a reasonable and natural dynamic of life which ultimately increases consciousness, quality, and significance. Awareness of fear, anger, frustration, or depression is an opportunity to restore the quality of life and maintain health.
+
+Love is the first and most primal emotion. All emotional dynamics begin with love, and always ultimately have love at their root. Love is the pool of potential energy which is at the basis of all spirit.
+
+Love is that which enables choice. Love is undifferentiated potentiality at the subjective core (soul) of all being. It is a spiritual energy which moves in all directions at once.
+
+The innate, innermost nature of self (soul) has the being of unconditional love. In being unconditional love **is**, and is ultimately associated with the soul. The absolute inner nature of self is ultimately 'good', regardless of surface manifestations.
+
+Love becomes fear when there is a perception, though, or belief of the possibility for loss of something or someone that is valued, significant, desired, or loved.
+
+Fear is a flow of energy (from soul and spirit toward mind), which is directed towards the core of the incarnate body to enable the self to act. Fear is felt near the center of self. Fear awakens consciousness and focuses attention in being; it makes one aware of the need for action.
+
+There is no fear that is not fear of loss. The degree of fear is in direct proportion to the degree of significance of the perceived loss. There can be no fear where there is no love. As such, the emotion of fear is never stronger than love; love is always stronger than fear. The intensity of one's fear is an indication of the significance of the love which defines it.
+
+Fear always has at its basis a perception of the potential loss of something valued, important, and meaningful (something or someone loved). Through a recognition of the basis of fear one is returned to the root emotion (love).
+
+Fear becomes anger when there is a perception, thought, or belief that it is the world — rather than the self — which must change; that no amount of change or action within oneself can prevent the possibility of loss.
+
+Anger (when unconscious, reacting) and passion (where conscious, acting in a healthy and integrated manner) are flows of energy direction from the mind into the external world to enable (or catalyze) the world to act and change. Both passion and anger potentiate change and action on the part of that which is other than self. It is an attempt by the self to enable someone or something else to act, choose, and change on the behalf of self.
+
+All anger finds its strength and basis in fear. All passion finds its strength and basis in love. Where there is no desire, there can be no passion.
+
+An angry person has consciously forgotten what they really care about and who or what they truly love. A passionate person remembers what the angry person has forgotten[[<p>A person who is only conscious of their anger tends to make very poor choices. They are ineffective at changing a situation so that it accurately supports that underlying desire (enabling a return to love). They are reacting rather than acting or responding. The expression of love is distorted in anger.</p><p>Passionate express, in contrast, tends to be more conscious and pure, supporting and enabling all concerned to realize significance and return to love. Passion is effective to the extent that it realizes love with clarity and intensity (without distortion).</p>]].
+
+Anger always has, at its basis, fear. Anger is a desire to change the outside world. To truly know what one wishes to change and why, is to recognize the fear at the root of anger.
+
+Anger becomes frustration when there is a perception, thought, or belief that change in the world is not actually occurring; that no amount of personal action will effect change in the world, and that the possibility of loss will become an actuality of loss.
+
+Frustration is the experience of a blockage in personal energy directed outward. It occurs when passion (or anger) is perceived to be ineffective, resisted, or confined. Frustration is a reflection of an initial failure to satisfy underlying concerns, desires, loves, needs, or wants. Frustration is blocked anger or passion. It is a (believed to be) temporary disconnection in the flow between self and world.
+
+Frustration always has, at its basis, blocked energy. It manifests in the perception that there is something external to self which acts in opposition to one's desire.
+
+Frustration becomes depression when there is a perception, thought, or belief that no change is significant; that a loss has actually occurred and that it is permanent; that changes in self or world would make no difference.
+
+Depression is characterized by the belief that no amount of action will make any difference. Where there is no choice, spirit departs from the body, and the mind becomes empty (without thinking) and insensitive (without feeling). Depression is a blockage in the flow of energy (the connection) between soul and self. Depression is an isolation and aloneness of self, a being cut off from both inner spirit (personal dreams and innate significance) and the outer world (other people).
+
+Depression always has, at its basis, a feeling of powerlessness. It manifests as a lack of energy (apathy) to make changes which are important, valued, and meaningful.
+
+The greater the degree of love, significance, and value, and the clearer and more sudden the perception (belief) of possible loss, the stronger and more intense the resulting emotions of fear, anger, and depression.
+
+The more the cause of a potential loss is perceived to be external, the more rapid the transition from love to fear and from fear to anger. The intensity of fear and anger is proportional to the strength of the source of emotion of love.
+
+The degree, depth, and duration of frustration and depression is proportional to the intensity and strength of the original love and the degree of perceived ineffectiveness of any possibility of change.
+
+An enlightened person has learned to use an awareness of their emotions as an indication and reminder of what is truly loved, valued, and desired. In this way, strong emotions (rather than being a hindrance) are effective tools of change and consciousness. Emotions provide a clear path to knowing what one loves; a true knowledge of self.
+
+### Principles of Change
+
+With respect to one's subjective time in any domain (world), the <u>rate of change</u> is proportional to the degree that one's focus of attention is internal, and is inversely proportional to the degree that one's focus of attention is external.
+
+Within the self, change occurs only when there is attention and commitment.  
+Within the world, change occurs only when there is an <u>absence</u> of attention and commitment.
+
+*Within the self,* a focus of attention (awareness of choice) begets change, at the location of that focus. The more that one focuses attention on that which is internal, the more quickly change will be realized. Those things which are observed as being most within, or which are the most microscopic, will have the greatest rates of change relative to one's natural subjective sense of time.
+
+*Within the world,* a focus of attention (awareness of causality) halts change, at the location of that focus. The more that one focuses attention on that which is external, the more slowly change will be realized. Those things which are observed as being the most without, or which are the most macroscopic, will have the slowest rates of change relative to one's natural subjective sense of time.
+
+A focus of attention on quality (feelings) increases dynamicism (change; decreases permanence).  
+A focus of attention on quantity (thought, form) increases staticism (decreases change).
+
+The degree to which it seems that there are many subjective moments for each objective moment (i.e., the degree that one 'lives life fully') is proportional to the degree to which the dynamics of one's life involves many full transitions of context, state, and orientation. The strength of this effect increases in proportion to the degree that each transition involves many qualities, feelings, and levels of depth within the self and that these transitions are varied, significant, and novel (unique).
+
+The degree to which one's subjective experience of time seems to be exceeded by that of the objective experience of the world (that 'time passes quickly') is proportional to the degree that there is an absence of change, novelty, quality, and richness in the dynamics of one's life. This will occur when one experiences life using only one level of consciousness, without any changes in context, state or orientation; and when one interacts with the world only in terms of purpose, structure, form, rather than in terms of significance, sacredness, and feeling.
+
+Awareness is a coordination of choice; it inherently involves potentiality and energy. Awareness of a feeling or thought changes it. Nothing which is internal to oneself — and which remains in one's focused attention – will remain unchanged. The maximum degree of choice and change is possible at the location of the focus of attention.
+
+To experience a change in feeling, one must fully experience feeling. The degree that one's feelings change is directly proportional to the degree that one experiences them with clarity. Feelings change with our awareness and attention. Feelings that are given no attention (are suppressed or held back from one's experience of the present moment) do not change. They will remain constant until experienced fully at the level of self from which they arise.
+
+By changing many thoughts, one changes a single quality of feeling.  
+By changing many feelings, one changes each emotion.  
+By changing many emotions, one changes a single thought.
+
+### Intelligence
+
+**Thinking** is the changing of relations in perception. Thinking is the process of change in the organization of an individual's perception. A **Thought** is a single, specific change in the organization of perception. An **idea** is the relationship between sets of perceptions. A **concept** is a relationship between multiple ideas.
+
+The apparent degree of **intelligence** is in proportion to the rate of change of relations in perception (insight). Changes in relations of perception are to be understood in terms of <u>span</u> and <u>depth</u>.
+
+- **Span** refers to the number of perceptions and the degree of the dissimilarity of the perceptions which are changed in any given domain of perception (thinking/existence).
+- **Depth** refers to the number and dissimilarity (in terms of degrees of abstraction) of the domains in which those changes of perception occur.
+
+The quality of intelligence is considered in terms of the depth, clarity, and rapidity of those changes. The quantity of intelligence is proportional to the degree that one's perceptions and thoughts are transformed into other perceptions and thought, and is inversely proportional to the time required to implement those transformations. The greater the degree of the change in perception, the greater the number of ways in which that change occurs, and the more rapidly the change occurs, the greater the degree of intelligence.
+
+Clarity is the basis of discipline in thinking. In the practice of spirituality, philosophy, and art, <u>clarity</u>, no simplicity, is the more essential value. To speak and write with elegance and grace is not to be demonstrably simple, as much as it is to be profoundly clear.
+
+The concepts of simplicity and clarity are distinct, even though they may often appear in the same context.
+
+To be clear is to allow creation. The ability to realize creation and creativity increases with one's clarity and transparency; a form of silence, emptiness, and potentiality.
+
+Creativity decreases when there is an emphasis on simplicity rather than on essence. Events of greater degrees of synthesis and complexity have stronger aspects of creation/creativity. Evolution only happens where there is complexity and where that complexity increases.
+
+Clarity is necessary to maintain an open mind and to perceive deep truths. An effective person will frequently examine implicit, hidden assumptions and expectations. When one releases expectations, it often becomes possible to gain new and valuable insights.
+
+To be effective, proceed with an emphasis on clarity of essence. Do not submit to the desire or drive for simplicity of appearance.
+
+Effectiveness in thinking is proportional to the degree that the desire and value for diversity, dynamicism, complexity, clarity, and asymmetry, is equal to the desire for simplicity, symmetry, and permanence.
+
+Communication is reality. The synthesis of multiple perspectives is greater than their sum. The self which is knowledgeable about many worlds has greater wisdom in each of them.
+
+Just as the synthesis of multiple languages grants the speaker a deeper knowing (including a knowing of the essential nature of language), so also does the use of multiple levels, channels, and interchanges of interaction with a reality grant a deeper knowing (including a knowing of the essence of reality). The depth of such knowing obtained is greater than the sum of its components.
+
+To be able to think within and about a multiplicity of different languages is important. The choice of the language (assumptions, subjective context) used in one's consideration has a profound effect on the trend and effectiveness of one's thinking.
+
+### Learning and Memory
+
+**Learning** is that which occurs when there is an increase in the meaningfulness of a perception.  
+**Evolution** is that which occurs when there is an increase in the meaningfulness of life.
+
+To learn is to organize attention. To be wise is to organize intention.  
+To have learning (to have knowing) is to have organized attention (a process of being/perception).  
+Understanding is the result of organized expression.
+
+The process of learning is a movement, a transition of the boundary of self, of attention and awareness expanding outward. Learning is a transition form 'working with' to 'working through'.
+
+- One **works with** something that one regards as external to oneself.
+- One **works through** something that one regards as an extension of one's own being, as a part of oneself.
+
+The whole of one's learning affects each choice, each perception. A collection of choices (perceptions) defines one's attention (awareness). To learn something one must organize one's attention, which in itself requires a consistent pattern of choices. To make a choice is to apply the whole of one's learning.
+
+[…]
 
 ## Aphorisms of Health
 
