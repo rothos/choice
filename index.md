@@ -510,7 +510,7 @@ Anger (when unconscious, reacting) and passion (where conscious, acting in a hea
 
 All anger finds its strength and basis in fear. All passion finds its strength and basis in love. Where there is no desire, there can be no passion.
 
-An angry person has consciously forgotten what they really care about and who or what they truly love. A passionate person remembers what the angry person has forgotten[[<p>A person who is only conscious of their anger tends to make very poor choices. They are ineffective at changing a situation so that it accurately supports that underlying desire (enabling a return to love). They are reacting rather than acting or responding. The expression of love is distorted in anger.</p><p>Passionate express, in contrast, tends to be more conscious and pure, supporting and enabling all concerned to realize significance and return to love. Passion is effective to the extent that it realizes love with clarity and intensity (without distortion).</p>]].
+An angry person has consciously forgotten what they really care about and who or what they truly love. A passionate person remembers what the angry person has forgotten[[<p>A person who is only conscious of their anger tends to make very poor choices. They are ineffective at changing a situation so that it accurately supports that underlying desire (enabling a return to love). They are reacting rather than acting or responding. The expression of love is distorted in anger.</p><p>Passionate expression, in contrast, tends to be more conscious and pure, supporting and enabling all concerned to realize significance and return to love. Passion is effective to the extent that it realizes love with clarity and intensity (without distortion).</p>]].
 
 Anger always has, at its basis, fear. Anger is a desire to change the outside world. To truly know what one wishes to change and why, is to recognize the fear at the root of anger.
 
@@ -607,13 +607,87 @@ The process of learning is a movement, a transition of the boundary of self, of 
 
 The whole of one's learning affects each choice, each perception. A collection of choices (perceptions) defines one's attention (awareness). To learn something one must organize one's attention, which in itself requires a consistent pattern of choices. To make a choice is to apply the whole of one's learning.
 
-[…]
+Within any one particular orientation of consciousness, the accuracy of memory is improved by the use of discrete correspondences and patterns of relationship (forms). Qualities (feelings) are retained in memory by first converting (binding) them to discrete patterns and forms.
+
+Clarity of one's memory is diminished by rapid changes in one's state of consciousness in proportion to their rapidity and suddenness. Clarity of memory is also diminished by significant transitions from feeling-oriented consciousness to form-oriented consciousness, or vice versa.
+
+Continuity of memory (the sequence of subjective experience) depends on a continuity of consciousness (the maintaining of a similar state of mind). When one forgets (a form of discontinuity), it is often a signal that the context of mind, the state of one's consciousness, has changed.
+
+The degree that one retains memory across the transition of a state of consciousness is inversely proportional to the suddenness of that transition. For the maximum transfer of information with minimum distortion from one state of consciousness to another, one language or world to another, one self to another, a proportional match must be made between the frequency and density of each state, each language[[This may often be facilitated by the deliberate introduction of several intermediate stages (languages, states of consciousness, etc). Calibrate each added state to closely match the preceding and succeeding ones.]].
+
+The degree of clarity associated with a memory (perception) is directly proportional to the degree of similarity of feeling in one's subjective context (perceiver) and to the degree of proximity of form in the objective content (perceived).
+
+The process of learning, as well as the process of evolution, life, and conversation, is as dependent on forgetting as it is on remembering. One has to 'remember' and build upon past memories and learning. Yet, one must also 'forget' the myriad details and 'fine choices' required for each action to become free and make use of the learning gained.
+
+The limitation of habitual action at one level of being is a freedom of unconstrained action in other levels of being. Habituation and unconsciousness are as important and valued to self as are the immediacy of awareness and consciousness. In habituation, the choices that are made become automatic, and *stay* made, so that one does not have to 're-choose' the same details over and over again[[This choice to focus awareness is no different than the choice that the mind makes to omit a distracting 'complete and thorough awareness of every minute detail required of one's body to walk across the room'. When one learns to walk, or to ride a bike, the process of this action becomes automatic for precisely the same reasons. It enables one to be able to focus on other things, like the scenery that one is walking through. States of consciousness, one's beingness within a world, become defined and fixed by choices of the same nature.]].
+
+{{footnotes}}
+
+### Habits of Mind
+
+A **belief** refers to a structure of mind that:
+
+1. acts as a filter (transformation operator) of one's perceptions and knowing.
+2. acts as a predisposition (instruction operator) in one's understanding and expression.
+
+The notion of 'a belief' is similar to that of a presumption; both have a ubiquitous, unconscious nature. A belief is an unconscious or subconscious choice. Beliefs are similar to (and are usually encoded as) thoughts, ideas, and concepts. When beliefs are fixed and unchanging (unchangeable, non-dynamic), they may have characteristics and effects similar to those of prejudice.
+
+Beliefs (structures of mind) exist and have interdependencies at varying levels of depth. Some beliefs reside at deeper contextual levels, providing the foundations upon which other beliefs are conceived and used.
+
+All structures of mind are interdependent, with varying degrees of asymmetry. The deeper structures of soul are more subjectively stable and persistent than those nearer the mind, which are more transient.
+
+The depth of a belief is proportional to the number of situations in which that belief applies; the more the belief is a part of the subjective context. The deepest beliefs are those which form the ubiquitous assumptions and taken for granted truths which apply in nearly all situations. They are the foundations upon which many other beliefs are built.
 
 ## Aphorisms of Health
 
 ### Joy and Pain
 
-[…]
+*First parallel aspect:*  
+One has an experience of **joy** when one perceives and increase in one's potentialities.  
+Events and choices which increase apparent freedom, are expansive, and decrease feelings of limitation.  
+These events will tend to result in experiences and feelings of joy.
+
+*Second parallel aspect:*  
+One has an experience of **pain** when one perceives a decrease in one's potentialities.  
+Events and choices which decrease apparent freedoms, are constrictive, and increase feelings of limitation.  
+These events will tend to result in experiences and feelings of pain.
+
+Joy and Pain are both real.
+
+Pain is typically literal, factual, and objective, and is found by going into the deep world (reality).  
+Joy is typically symbolic, mythical, and subjective, and is found by going into the deep Self.  
+To shift from the mythical to the factual is to decrease potential and experience pain.  
+To shift from the factual to the mythical is to increase potential and express joy.
+
+Pain corresponds to the actuality of events of interruption, cessation, discontinuity or disconnection in flow. These events decrease apparent potentiality. All pain is a reflection (a realization) of discontinuity. Pain occurs when there is a break, breach, or sudden change.
+
+Joy corresponds to the potentiality of events of connection, continuity, and union.  
+These are events which increase the feeling of potentiality.
+
+**Humor:** the ability to create and convey an immediate, vivid, and unexpected expansive shift in the interpretation and significance.[[The connection between joy and potentiality is experienced in all forms of humor. The essence of telling a good joke is the unexpected shift to an alternate interpretation, one which creates an expanded view of a situation. The shift to an alternate view, the recognition or creation of an absurdity, etc., are all expansive in comparison to one's initial understandings and expectations; they are implicitly perceived as an increase in potentiality; that there is more than one way—a choice—in how a situation may be perceived. The effectiveness of humor is in proportion to the novelty, immediacy, and vividness of the moment of expanded realization. As such, an experience of humor is recognized as being a momentary experience of joy; a moment expressed in laughter. As such, 'to have a sense of humor' is correctly recognized as a spiritual quality; an ability to accept more expansive interpretations of each situation.]]
+
+Joy and pain are not opposites; they are complementary aspects of a deeper whole. They have the same relationship to each other that potentiality has with actuality. They are both found in proportion to the intensity of the self-to-world interaction. Where the degree of the intensity of the interaction between self and world changes, there will be (cannot not be) either joy or pain or both.
+
+An experience of joy does <u>not</u> result in or require an experience of pain. Nor does it make one any more or less likely to experience pain. Nor does the actuality of an experience of pain make the potentiality of an experience of joy any more likely. It is never "necessary for balance" to have equal degrees of experience of joy and pain. One does not need to experience pain to experience joy. Even a large amount of pain will not necessarily result in or imply that one will have even a very small amount of joy. The one does <u>not</u> necessitate the other. There is no glory in suffering!
+
+One cannot increase or decrease the potentiality of either joy or pain without also increasing or decreasing the potentiality of the other.
+
+To increase the potentiality of joy, one must increase the actuality of the intensity of interaction. Without the vivid connectedness of interaction, there can be no joy.
+
+Where communication, connection, continuity and communion are fundamentally cooperative processes, and cannot be forced, only strengthened, so also one cannot force, guarantee, or ensure an experience of joy. One's ability to experience joy is proportional to the strength of one's willingness to remain present in the potentialities of the unknown.
+
+One <u>cannot guarantee</u> that joy, happiness, or love will follow as the result of any process, conditioning, practice, or method. No religion, tradition, technology or practice can ever specifically create, force or guarantee that one will experience joy, bliss, satisfaction or happiness, or that one will not ever experience pain, suffering, or loss. The qualities of joyful experience can only be nurtured, not ensured.
+
+To allow and nurture joyfulness will make joy a more likely experience in life. Spirituality (acceptance) and the enactment of love (nurturance) enable and increase the potentiality that one will experience joy.
+
+*First parallel aspect:* Mental and physical processes work best as the result of constrictive choices; choices that have the effect of limiting potentiality. Specific mental and physical states (a context of experience) can be attained as the result of a goal-driven activity. They can be achieved with practice and effort.
+
+*Second parallel aspect:* Emotional and spiritual processes work best as the result of expansive choices; choices that have the effect of increasing potentiality. Emotional and spiritual dynamics (a context of experience) cannot be attained or realized (will not ever be realized) as a target of any goal-driven activity, technology, process, or technique. They will never be achieved by any amount of practice and effort.
+
+Only out of potentiality (nurturing gentleness), and that which is unconditioned and unconstrained, may joy, happiness, and love arise. Joy, happiness, and love, cannot ever be a goal.  
+They cannot be made; they can only **<u>be</u>**.
+
+{{footnotes}}
 
 ### Healing
 
