@@ -729,11 +729,45 @@ Healings which are infrequent, singular, and which are directed to ultimate caus
 
 ### Changing Beliefs
 
-[…]
+In many cases, healing involves changing feeling by the proxy of changing action, thought, association, assumptions, and belief.
+
+To change a belief (a structure of mind), it is necessary to know, identify, and recognize the belief *as* a belief, and not as a 'necessary fact'. Belief recognition converts an unconscious assumption of truth, a limitation, into a conscious acceptance of an allowable choice, a freedom.
+
+When changing beliefs and assumptions, gradual point by point replacement is better than sudden rejection. When changing a belief or assumption, a practice of nurturing addition, expansion, and integration will always be more effective than any practices based on dissolution, cessation, division, suppression, or analysis.
+
+Beliefs cannot be changed in isolation. They must be managed in groups and clusters of related beliefs. This often involves examining the connections and interdependencies between related beliefs and assumptions.
+
+When changing a belief, it is necessary to choose a replacement belief which provides something of the same benefits and 'payoff' as the original belief. All beliefs have a meaning and a cause. The design of the replacement belief must be connected to other (unchanged) beliefs and ideas. The new belief must 'fit', and provide something of the same or better 'function' within the structure of one's own consciousness.
+
+Each belief must be adapted to the environment in which it lives (other beliefs, associations, and ideas). The best design of a new belief is one that nurtures or ensures an increase in potentials and wholeness of the self. For a new belief to be effectively accepted, it must be frequently triggered in one's current style of life.
+
+Change and growth cannot be rushed. As with a fragile flower, the new belief needs the chance to grow with patient persistent nurturance and focus of attention and consciousness. In time, it will again become habitual, known, and unconscious. Without commitment, change cannot and will not occur within the self.
+
+Success in changing one or more beliefs at any given depth is likely to affect many surface beliefs (i.e., any beliefs which are more in the mind than the one changed). Changing a fundamental belief will typically require coordinated adjustment of a large number of other beliefs which are supported by it.
+
+To change a belief or assumption (pattern of the perceptual matrix of self), one is required to move/focus awareness at the depth of consciousness (level of abstraction) where the belief pattern is defined[[Accessing deeper levels may be more difficult and require more energy, more concentrated and coordinated effort, and greater coherency.]].
+
+Where there is perception, there is also change. To position awareness at the same level of depth at which a belief is defined enables one to choose a change in position, habit and/or coordination of the choices which compose that belief.
+
+The greater the change in the state of one's consciousness, the greater the amount of emotional energy (passion, love, desire) involved. Some changes (effects of choice) will always be more difficult, and will involve more effort and energy to make than others.
+
+Difficulty in changing a belief is directly proportional to the span of the contextual scope with which that belief applies to expressions, events, and experiences in one's life. Beliefs at greater depths, in the soul, will require more effort to change and are more likely to remain stable than beliefs in the mind.
+
+{{footnotes}}
 
 ### Society and Emotion
 
+Highly emotional events are those which involve the greatest values and desires; those which are believed to be of importance and significance. This is especially apparent when aspects of self are blocked, confused, and conflicted (where there is separation and discontinuity).
+
+Perceptions cluster into ideas. Ideas combine into beliefs. Systems of belief become ideologies. On an individual and societal level, emotions are found most often where ideologies, beliefs, ideas, and perceptions conflict.
+
+The degree to which emotion is apparent is in proportion to the degree of blockage, resistance, or de-coherence involved in value, significance, and purpose. The scale of emotion will match the scale at which these compositions are apparently in conflict[[Where the great tectonic plates collide, the earth shakes and quakes and rises up into volcanoes. Similarly, the greatest upwellings of emotion occur most frequently in those places where and when great ideologies collide.]].
+
+Where there is strong fear, anger or frustration, one may also find great love, passion, and strength.
+
 […]
+
+{{footnotes}}
 
 ## Aphorisms of Action
 ## Aphorisms of Being
