@@ -765,22 +765,184 @@ The degree to which emotion is apparent is in proportion to the degree of blocka
 
 Where there is strong fear, anger or frustration, one may also find great love, passion, and strength.
 
-[…]
+It is as great a desire of self to grow as it is for a culture to evolve. Growth happens in interaction, connection, and coherency; the continuity of being. As such, both selves and societies always seek to find resolution between conflicting perceptions, ideas, beliefs, and ideologies.
+
+Only that which nurtures life will continue to live.
+
+Only when there is clarity and purity of mind, wholesomeness of life and self, does the gradual release of inhibition encourage joy.
+
+To enable, allow, and nurture one's desires with clarity, precision, and purity is to realize love in life with health, wealth, and joy. In proportion to its purity, desire (Love) always connects, enlivens, and nurtures.
+
+Ultimately, desires are never necessarily in conflict. At the root, the desires of self and those of culture are always in deep alignment and agreement. The deepest desires of the self are always connected with the deepest desires of the community.
+
+Only the perceptions, expressions, representations, and beliefs about desire can be in conflict; root desires are never themselves in conflict. Only forms (how one thinks about and expresses one's desires) can be in conflict; feelings are always consonant (never in conflict).
+
+It is in the action of inhibition, suppression, restriction, and cessation, a blockage of love, emotion, desire, feeling, attachment, significance, connectedness, and life, that one knows, and others will feel, pain and suffering. To reduce the pain and suffering caused by a conflict (a disconnection between various ideologies and beliefs), it is necessary to heal the connection; to integrate these ideologies and beliefs by recognizing, honoring, and enlivening each of them. Hold as sacred the root desires which give each ideology its basis and strength.
+
+Peace is the result of nurturing and integrating the life of all beliefs. Any attempt to suppress, restrict, or inhibit love, ideals, beliefs and ideologies will cause pain and suffering, both for oneself and for all others that one touches.
+
+Different emotions are different levels of the self. All levels of self, self-thinking, and self-feeling, must be known, acknowledged, and accepted to make effective choices.
+
+**Health** refers to the ability to <u>choose</u> and respond, rather than just the ability to <u>function</u>.
+
+The best form of health is always found in interdependence. All of nature lives in interdependence; never dependence or independence[[Total independence is eventually realized to be equivalent to total isolation; it is a totality of being cut off and disconnected from the world.]].
+
+The most effective choice will always be the one made from a basis which is the most enabling of all other choices.
+
+In that the deeper emotions are the more affecting ones, they are also the most enabling ones.  
+Ultimately, love is more enabling of choice than any other emotion[[Choice made on the basis of any other emotion is less effective. Although making choice on the basis of anger may appear to be more satisfying in the short-term, such a choice is in the long-term far less effective at leasing anything truly significant. For example, choice made on the basis of skepticism or fear always results in insignificance; it is ultimately impractical.]].
+
+Choices made on the basis of love are healthier, more nurturing, and more effective. Always choose from the basis of love. Always choose with an immediate awareness and consciousness of the manner in which the deepest essence of love and desire is reflected and connected to that choice.
 
 {{footnotes}}
 
 ## Aphorisms of Action
+
+### Ethics and Morality
+
+**Ethics:** organized thought concerned with the study of, and adherence to, the principles of effective choice. Ethics is internal to oneself and independent of any particular domain.
+
+**Morality:** an externally defined set of rules in a particular domain, generally applicable to all selves; and the degree that the choices of self adhere to those rules. Morality is the application of a collection of statements or codes which hopefully represent the principles of ethics in terms appropriate for a specific domain or world.
+
+The relationship between ethics and morals is similar to the relationship between philosophy (metaphysics) and science (physics). Ethics is always the ultimate basis for any moral, statutory, or civil code in much the same way that metaphysics is always the ultimate basis for any physics.
+
+Ethics is the study of the principles of the most effective means of self-expression, in both words and actions. It is about how to make one's choices more effective, for all of oneself and for all others in both form and feeling.
+
+A statement of ethics is a statement of principle[[The study of ethics is ultimately about identifying and applying the principles of effective choice. It is not about whether any given choice is 'right' or 'wrong' in some absolute sense. Only morality can be considered in such a thoughtless and disabling manner.]]. It originates from and has its basis within self.
+
+A statement of morals is a statement of statutory or civil law. A statement of morality originates from and has its basis within a specific world, domain, or culture. It is a command or directive to be followed by all selves in that world.
+
+Each "action" is a form of communication between self and world; it involves aspects of both perception and expression. In this sense, ethics is the study of 'the best way to communicate'.
+
+In connection with the nature of effective choice, the principles of effective expression and communication (all of which are involved in any real practice of ethics) are ultimately defined in terms of the attainment of the basal motivations.
+
+To consider how to increase the effectiveness of one's choices is to determine what is meant by simultaneously preserving the integrity and increasing the potentiality of both life and evolution. To maximize potentiality and integrity is to maximize the combination of symmetry and continuity[[To maximize the degree of continuity and the degree of symmetry is <i>not</i> to assert that symmetry and continuity will be realized in exactly the same manner for the same thing at teh same time. Rather, symmetry and continuity are to be considered as applying to difference <u>aspects</u> of one common dynamic, the relationship/communication between the subjective (self) and teh objective (world). The principles of ethics will, therefore, describe what would be required in this common dynamic (communication) for the subjective and the objective to be realized (made real and known) <b>as</b> objective and subjective.]] in the relationships between self (the subjective) and reality (the objective).
+
+To develop the principles of ethics is to determine a method and, therefore, a practice of making maximally effective choices. An effective set of ethical principles will positively specify[[To assert "positive specification" is to have an ethics which describes what or how to choose — which choices are best — rather than stating only what not to choose (which choices are worst, to be avoided). All negatively defined ethical systems must be regarded as incomplete.]] and characterize effective choices.
+
+Ethics focuses simultaneously on the value, meaning, and purpose of expressions (choices and events), with an emphasis on meaningfulness. In ethics there is no right or wrong[[<p>This is in contract with a system of morality, which is defined as a fixed set of rules concerning what is right and what is wrong. Morality is usually defined in terms of goodness and virtue. Regardless of the degree to which a philosophy, religion, or society may confuse ethical concerns with moral ones, ethics <i>cannot</i> be considered as having externally fixed rules of right or wrong.</p><p>To the extent that a moral code defines some things as "good" (valued, of virtue) and others as "bad" (some actions as right and others as wrong), there exists the risk of being inherently unethical in proportion to the degree that the boundary between the good and the bad is 'sharp' (an expression of discontinuity). Systems of morality which are defined in 'black and white' terms are fundamentally antithetical to life and consciousness and are to be avoided.</p>]], there are only varying degrees of effectiveness, of enhancement of life and evolution, and other capacity to nurture (mindful) consciousness.
+
+The absolute *principles* of ethics are common to all of consciousness (all individuals).  
+The absolute *practice* of ethics is particular and unique to each individual; it cannot be prescribed from without.
+
+Ethics is always implemented relative to the self and to the situation.  
+The realization of ethics is unique in each choice.
+
+While there are only two principles (essential statements) of non-relativistic ethics, there are many effective ways to enact them. There are many ways to live ethically. While there can be any number of moral codes, it is usually considered that there is only one 'right way' to enact them; it is believed that there is only one way to live morally.
+
+Ethic principles (laws) are natural, and cannot be enforced.  
+Moral codes (rules/laws) are civil, and can only be enforced.
+
+To require others to be 'ethical', or to label them as being 'unethical', is itself inherently unethical. One cannot enforce ethics (ethical action and choice) on any other, in any world, ever. It is impossible. Only by being ethical can one encourage, allow, and enable others to also be ethical.
+
+One can only act effectively and ethically as oneself (personally). One can never act on behalf of, or in the place of another, any other, ever. This includes acting on behalf of causality or 'the universe', or 'in the name of God'. One's own subjectivity can never replace or supplant the objectivity of any world.
+
+Any effort which attempts to make life adhere strictly, ultimately, and absolutely, to any moral code without any exceptions, no matter how minor, will eventually kill it. Such life will lose all meaningfulness and value. To apply a moral code with absolute aspects or in an absolute manner is to ensure that the value of and meaning of the moral code itself will ultimately be lost.
+
+Life and evolution depend (in part) on occasional exceptions.  
+No single set of rules, no matter what their origin[[This includes all sources, personal and impersonal; mundane and divine.]], can encompass life.
+
+No world is 'fair', nor can any world be expected to be fair, even though all worlds are in their own way beautiful.  
+Life itself is dynamic, inherently involving inequality in evolution and change, a flux across a boundary.  
+Life is ultimately ethical, yet it is not moral.
+
+To be meaningful, life will involve some degree of rhythm and change;  
+a dynamic which eventually exceeds and extends beyond all fixed boundaries.
+
+One chooses most effectively when choosing (and continuing to choose) from one's deepest basis of desire (love). The best choices express that desire in a manner which is affirming to all of life at all levels of being, in all worlds[[This principle of effective choice continues to apply regardless of the level of intensity involved in that choice. In making choices of high intensity, a corresponding level/degree of integrity in representing that desire and affirming life is required]].
+
+Choices and actions are most effective when they are the most ethical;  
+when they preserve both symmetry **and** continuity.
+
+Will has the nature of form and the being of attention to exist as one cause.  
+Love has the nature of feeling and the being of intention to create many choices.
+
+Any fully expressed choice which totally encompasses the subjective will also totally encompass the objective. Any choice which is truly and ultimately supportive and nurturing of *all* aspects of one's being will also have consequences which are supportive of *all* other beings[[It is important that this principle be applied with near absolute perfection. Under such circumstances, it is guaranteed to work.]].
+
+{{footnotes}}
+
+### Judgment and Justice
+{{footnotes}}
+
+### Action, Reaction, Response
+{{footnotes}}
+
+### Wisdom and Maturity
+{{footnotes}}
+
+### Politics
+{{footnotes}}
+
+### Truth
+{{footnotes}}
+
+### Faith
+{{footnotes}}
+
+### The Path of Right Action
+{{footnotes}}
+
+### Impeccability
+{{footnotes}}
+
 ## Aphorisms of Being
+
+### Communication
+{{footnotes}}
+
+### Meaning, Purpose, and Value
+{{footnotes}}
+
+### The Significance of Life
+{{footnotes}}
+
+### Equanimity
+{{footnotes}}
+
+### Errors of Extrema
+{{footnotes}}
+
+### The Six Paths
+{{footnotes}}
+
+### The Great Mystery
+{{footnotes}}
+
 ## Aphorisms of Evolution
+
+### Gentleness
+{{footnotes}}
+
+### Spirituality and Religion
+{{footnotes}}
+
+### Worship and Respect
+{{footnotes}}
+
+### Satifaction and Enlightenment
+{{footnotes}}
+
+### Soul, Mind, and Body
+{{footnotes}}
+
+### Self of the Dream
+{{footnotes}}
+
 ## Appendix
 
+### Simplicity and Clarity
+{{footnotes}}
+
+### Symmetry and Continuity
+{{footnotes}}
+
+### The Two Principles of Ethics
+{{footnotes}}
+
+### Meaning, Power, and Novelty in Art
+{{footnotes}}
+
+### An Aesthetic Basis
+{{footnotes}}
 
 <div style='margin-top: 10em'></div>
-
-
-<!--
-<a class='footnote' href='#footnote-00'>[]</a>
-<ol class='footnotes' start=>
-    <li id='footnote-00'></li>
-</ol>
--->
