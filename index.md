@@ -862,6 +862,41 @@ Any fully expressed choice which totally encompasses the subjective will also to
 {{footnotes}}
 
 ### Judgment and Justice
+
+Where the degree of intensity in interaction is very high, one is required to act with a very high level of integrity[[Integrity has the meaning of 'to act as one together'. It connotates wholeness, health, and a complete unity of being.]] (very ethically).
+
+One is permitted, empowered, and required to respond to an action affecting oneself (to act on) with a similar level of intensity as the degree to which one has been acted upon (neither much more nor much less)[[The key to this principle is to act in a manner that is perfectly transformative, rather than in a manner which is merely reactionary.]].
+
+In all interchange, there is to be maintained continuity. Where one has been deeply affected, that one may effect deeply; not to diminish or to escalate, but to change. Such changes are best and most effectively realized when enabling the realization of the deepest dreams of all involved.
+
+To sustain the integrity of self, be conscious of an choose the level of intensity of interaction with a world.  
+Be sure to choose the time of the best usage of intensity and of one's own involvement with it.
+
+One can only make one's own choices. One can only accept what is in one's own experience.
+
+**Judgment** refers to an evaluation of a choice (act or expression) made by someone other than oneself.  
+Judgment *also* refers to an attempt to make choices in place of (or on behalf of) someone other than oneself.
+
+**Justice:** When a self *external* to an event of subjective action (choice) attempts to deliberately implement on that subjectivity a 'moral' causality. A personal action of 'justice' is *believed* to be necessary when there is *also* the belief that no other natural causal relation would impersonally be applied.
+
+Any attempt to seek justice is to hold the false expectation that the impersonal natural world would or should adhere to one's own arbitrary personal sense of right. As such, justice can only be regarded as a moral concern and cannot be regarded as an ethical one[[Only in thinking of 'justice' as a personal practice of maintaining a continuity of intensity of interaction (to 'make just' or 'to regulate'), can this concept be regarded as having ethical implication. However, by itself this is not a complete embodiment of ethics, for a continuity of intensity does not fully describe what would be required for effective, and therefore ethical, choice.]].
+
+To implement 'justice' is an attempt to personally act 'on behalf of', or 'in place of', natural causality[[For example: To claim that one is judging and enacting justice (or vengeance) 'in the name of God' is to imply that God would not otherwise choose, support, or intervene/act in agreement with the chosen moral code (a religious or civil law). Any activity (for example, the 'righteous' condemnation of others) that is 'justified' on the basis of religious convictions is ultimately founded on the <i>absence</i> of religious conviction. All 'religious wars' are categorically <u>not</u> based on having religion; they are due to an absence of religion.]]. Ultimately, this must be understood as <u>a lack of faith</u> in deity, the universe, and/or the causality of the world in which one operates.
+
+To consider if an act or choice was just or unjust, to sit in judgment, is to attempt to evaluate choices (actions) which are not one's own. The essence of the meaning of judgment requires an objective consideration of that which is basically subjective (a choice or an act of expression). However, the objective cannot ever perceive the subjective. Therefore, the attempt to personally consider or judge another's choice is inherently and fundamentally impossible. To enact judgment is to act ineffectively and by definition, unethically. Regardless of appearance, a judgment is always one's own choice.
+
+Because the essence of objective judgment involves choices which are external to oneself, the practice of judgment is inherently unethical. Implementing justice requires one to make choices on behalf of something that is not self, and thus involves choices which are not one's own. Attempting to implement justice is inherently unethical. There can be no ethical justice and no ethical judgments in a personal, objective, and effective sense.
+
+The practice and implementation of ethics involves personal choice; it is never concerned with either justice or judgment.
+
+In that the ends to not justify the means, neither do the means justify, determine, fix, or ultimately define the ends[[For example, favorable intentions alone are not sufficient to create a favorable outcome.]]. There is always more than one path, more than one way to accomplish something; and there is always more than one thing accomplished.
+
+Ultimately, the consequences of one's action always return to the point from which intent originates. In matters of crime and guilt, it is the act itself which is its own worst punishment. No one can hide from the consequences of their choices[[This is a direct consequence of the definition of self. Refer to page 8.]].
+
+All choices, expressions, and methods of understanding involve ethical implications. No perception, knowledge, or experience of the self will have ethical implications. No events of change or of causality have ethical implications.
+
+Ultimately, […]
+
 {{footnotes}}
 
 ### Action, Reaction, Response
