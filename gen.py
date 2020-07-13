@@ -72,7 +72,7 @@ footnotes = []
 
 # Here is our regex, matching both footnotes and footnote section tags.
 exp = re.compile('(\[\[.*?\]\]|\{\{footnotes\}\})')
-matches = exp.finditer(text)
+matches = exp.finditer(text, re.DOTALL)
 
 # Loop through each of the matches.
 for m in matches:

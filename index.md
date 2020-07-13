@@ -496,7 +496,7 @@ Love is that which enables choice. Love is undifferentiated potentiality at the 
 
 The innate, innermost nature of self (soul) has the being of unconditional love. In being unconditional love **is**, and is ultimately associated with the soul. The absolute inner nature of self is ultimately 'good', regardless of surface manifestations.
 
-Love becomes fear when there is a perception, though, or belief of the possibility for loss of something or someone that is valued, significant, desired, or loved.
+Love becomes fear when there is a perception, thought, or belief of the possibility for loss of something or someone that is valued, significant, desired, or loved.
 
 Fear is a flow of energy (from soul and spirit toward mind), which is directed towards the core of the incarnate body to enable the self to act. Fear is felt near the center of self. Fear awakens consciousness and focuses attention in being; it makes one aware of the need for action.
 
@@ -895,17 +895,125 @@ Ultimately, the consequences of one's action always return to the point from whi
 
 All choices, expressions, and methods of understanding involve ethical implications. No perception, knowledge, or experience of the self will have ethical implications. No events of change or of causality have ethical implications.
 
-Ultimately, […]
+Ultimately, one can only account for, or be asked to account for, one's own choices and expressions. Furthermore, this accounting can only 1) occur in the domains/worlds in which those choices/expressions have their beingness and consequence, and 2) include those aspects of the choice which had a logical or reasonable basis. One must always (and can only) be responsible for the totality of their choices and expressions, neither more nor less.
+
+One cannot be legitimately required to account for one's perceptions[[The concept of perception is distinct from the concepts of knowledge, understanding, and choice. However, to the extent that perception <u>becomes</u> knowledge, and to the extent that knowledge <u>becomes</u> understanding, and to the extend that understanding changes choice, and to the extent that choice must have ethical and moral implications, so also may perception be considered to have indirect moral and ethical implications (neither more nor less than the exact product of these degrees).]] or knowing in any domain, world, or universe. Expression is always public; perception is always private.
+
+The knowledge of something in itself carries no ethical assignment.  
+The expression of an understanding will always have (must have, cannot not have) an ethical aspect.
+
+Having knowledge in itself, is ultimately independent of ethics.  
+Knowledge can never be objectively judged by another; it may be subjectively judged only by oneself.  
+However, the choice to express or not express in accordance with that knowledge may have ethical implications.
+
+One is always responsible for all aspects of their expression and choices at the exact moment of their choice, neither before nor after.
+
+To the extent (neither more nor less) that the *same* conscious being can continue to make choice, they <u>continue</u> to be responsible.
+
+One cannot ever be responsible for the choices of another.  
+One cannot be held responsible for the reactions or responses of others.  
+One can be held responsible only for their own actions and responses.
 
 {{footnotes}}
 
 ### Action, Reaction, Response
+
+Action, reaction, and response are distinct, yet inseparable. There is never a response that does not have some aspect of action and reaction. There is never an action or reaction that does not have some aspect of response.
+
+The ultimate realization of Action is always going to be Change. The ultimate realization of Reaction is always going to be Causality. The ultimate realization of Response is always going to be Choice.
+
+The **React/Response Ratio:** A measure of the degree of effort invested relative to the degree of consequence resulting from that effort. It is the ratio of the degree to which something has an affective nature, a potentiality to create change, as considered in relation to the degree to which there results in effective outcome, the actuality of change. It refers to the specific degree of apparent amplification (increase) or attenuation (diminishment) in the energy relationship between self and world. It is the ratio between action (choice) and reaction (causality).
+
+**Affect:** The degree of choice or effort (influence or personal/subjective energy invested) in the expressions of the self.
+
+**Effect:** The degree of outcome, consequence, or impact of a self expression.
+
+Where the react/response ratio is zero (all effort and no result) there is only unconsciousness (total insensitivity). Where the react/response ratio is infinite (all reaction and no response), there is only prejudice (pre-judgment, also a form of unconsciousness). Consciousness can only be maintained when the ratios of action, reaction, and response are near one-to-one.
+
+To be **responsible** as the being of oneself, one must choose and respond (act), rather than to react and reject (to be in false judgment). To be responsible is to sit in consciousness rather than merely in conscience.
+
+Ethics (continuity) is best realized when the react/response ratio is near to unity (1 to 1). The greatest levels of effectiveness are attained when there is a balance between affect and effect[[With regard to self and world, a strong dynamic balance between affect and effect is the ideal. The degree to which this ideal holds is in proportion to the proximity and intensity of the interaction between self and world. To have consistently and significantly more affect than effect is to experience frustration and pain. To have significantly more effect than affect is to be tyrannical, to experience paranoia, and/or to inflict pain.]]. The maximum effectiveness (world health) is obtained when the wisdom with which one chooses is equal to the degree of consequence associated with that choice.
+
 {{footnotes}}
 
 ### Wisdom and Maturity
+
+Feelings, although they cannot be long held, are kept within the self.  
+Forms although they can be held long, cannot be kept within the world.
+
+**Perception** is the flow and transformation of outer worldly forms into the inward feelings of self.  
+**Expression** is the transformation and flow of inward self feelings into outward worldly forms.
+
+Expression always involves an addition of information, pattern, or structure.  
+Perception always involves a removal of information, pattern, or structure.
+
+**Knowledge** refers to that which selects, filters, and transforms perception.  
+**Understanding** is that which constructs, and is the basis of, all expression.  
+**Wisdom** is the integration and synthesis of both knowledge and understanding.
+
+With increasing subjective time,  
+knowing increases when moving gradually from the macroscopic toward the microscopic, and  
+understanding increases when moving gradually form the microscopic toward the macroscopic.
+
+For one's life to be meaningful and significant,  
+the feeling within self must become forms in the world, and  
+the forms of within the world must become feelings in the self.
+
+The degree of **maturity** of an individual is proportional to their responsibility[[The degree of responsibility is proportional to the scope, span, and frequency of choice.]], their wisdom, and the degree to which these are used *together* in their actions and choices.
+
+The absolute degree of **maturity** is the multiplicative product of:
+
+1. the degree of responsibility with
+2. the relative degree of wisdom with
+3. the degree that one's choices of responsibility are made in accordance with that wisdom.
+
+Maturity is in proportion to the quantity, quality, and significance of the choices made. A mature individual is someone who chooses with effectiveness for all concerned at all levels of being.
+
+The rule of a nation is most effective when the maturity of the leadership is equal to the scope of that leadership. Never should the scope of a leadership exceed its degree of maturity. A leader of millions of lives needs to have the maturity of millions of lives.
+
 {{footnotes}}
 
 ### Politics
+
+**Politics** is what happens when a group of people make decisions based upon what they fear, rather than on what they love.
+
+**Consensus** is what happens when people in a group make decisions on the basis of what they love, what they all commonly desire together.
+
+The process of communication is best facilitated when each participant freely, honestly, and fully grants to the other these three rights:  
+*1) the right to speak, 2) the right to be understood, and 3) the right to know that one has been understood.*  
+Communication between people does not happen unless and until all three of these rights have been (at least implicitly) granted from each to the other.  
+These rights of communication cannot be taken; they can only be given.
+
+As long as any one person or country chooses on the basis of fear there will be strife, frustration, and pain. It is only in consensus and desire that agreement and true peace are reached.
+
+The emotional energy associated with political debates is proportional to the intensity of the perception of <u>a lack of value</u> for something that is regarded as personally important.
+
+Primary value systems among people tend to have three major organizations:
+
+1. Values of objectivity and understanding: ultimately values of *wisdom and intelligence*.  
+Examples include: science, technology, western materialism and capitalism.
+
+2. Values of the hereafter and otherworldly; ultimately values of *mysticism and spirituality*.  
+Examples include: Christian, Buddhist, Islamic, and other organized/institutionalized religions.
+
+3. Values of life, the here and now, and living in the present; ultimate values of *nature and community*.  
+Examples include: environmentalism, the hippy movement, Gaia or Earth consciousness, paganism and tribalism.
+
+All three values are needed and are mutually supporting and affirming.  
+Holding any one value over the other two results in imbalance and suffering.  
+Maximum effectiveness occurs when there is a true balance among these three primary value systems.
+
+All three values are required for continued life. Any person or culture which lacks any of these is incomplete (not whole, unhealthy), and survives only because of the forbearance of others.
+
+To effect positive change is to 1) help all others (everyone) to know their real desires, and 2) to cooperatively help discover the most effective method for their realization. To make positive change is to help everyone act on the basis of what is wanted, (or needed, or desired) so as to get what is wanted/needed/desired, rather than on the basis of what is <u>not</u> wanted or feared.
+
+Optimum methods of group decision making help people to know what they love, what they really care about, and enable them to choose on that basis[[Examples: One cannot stop war by hating and fearing war. One can only stop war by desiring peace, choosing on the basis of peace, and helping others to acknowledge and choose on the basis of their own desires for peace and fulfillment too. To sustain the environment, the natural world, it is essential to enable others to get in touch with how much they care about the environment. Knowing how to love one's own children in a natural manner enables other people to love their children more naturally.]]. The solution to unproductive political debate is to practice *all* values with unconditional acceptance.
+
+Only in combination may one's actions be both meaningful and effective.  
+To realize truth and honor in life one needs to be gentle and firm,  
+to have both compassion and ruthlessness, and be able to act with both sensitivity and severity.  
+These aspects cannot occur singly; they **must** always occur together[[<p>[…]</p><p></p><p></p><p></p>]].
+
 {{footnotes}}
 
 ### Truth
