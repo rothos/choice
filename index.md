@@ -1012,20 +1012,122 @@ Optimum methods of group decision making help people to know what they love, wha
 Only in combination may one's actions be both meaningful and effective.  
 To realize truth and honor in life one needs to be gentle and firm,  
 to have both compassion and ruthlessness, and be able to act with both sensitivity and severity.  
-These aspects cannot occur singly; they **must** always occur together[[<p>[…]</p><p></p><p></p><p></p>]].
+These aspects cannot occur singly; they **must** always occur together[[
+<p>Example: In part, the ultimate warrior (in the idealistic martial arts sense) must be at once completely sensitive, aware, and accepting or all that occurs, without judgment or conditioning. In addition, the ultimate warrior must be able to completely and wholly commit decisively, with total faith and confidence, to their chosen action without reservation or hesitation in any part of self. The perception and compassion of the warrior is infinitely gentle and subtle while the expression of the warrior (their action) is confident, skillful, and absolutely firm.</p>
+<p>With total openness and sensitivity, the effective warrior perceives directly; thus gaining true knowledge about others and the world. Anything less, in the form of judgment, distortion or a filtering and conditioning of perception, will result in significant weakness and ineffectiveness. The strength of the warrior is in the perfection of their sensitivity.</p>
+<p>With complete and decisive commitment to do what needs to be done (ruthlessness), the warrior acts with a wholeness of being, effecting maximum effectiveness. To act only in part, without coordination among all aspects of self, is to diminish significance. Maximum meaning and effectiveness is attained only when all aspects of self act in coordinated concert together. The strength of the warrior is in the perfection of their integrity of action.</p>
+<p>Only where all of these attributes occur together and at once is the maximum of life realized.</p>
+]].
 
 {{footnotes}}
 
 ### Truth
+
+Truth is reality, self, and the interchange between them. Truth is both relative and absolute.
+
+Truth is more than "that which one can consider" (perceive) with total confidence, clarity, and certainty.  
+**Truth** is that with which one can personally <u>act</u> with total confidence and effectiveness.
+
+Truth is not so much about correctness in thinking as it is about the significance and efficiency of choice.  
+It is not so much about perceptual certainty as it is about expression with clarity, effectiveness, and confidence[[True clarity implies transparency, which hides nothing. Like honesty, it is understood to mean 'without hidden agenda or deceit'.]].
+
+The basis for consideration of a truth is not only in the value that it actually has in clarifying thought, or even in the purposes to which it can potentially be applied. It is also in the significance and meaningfulness that it give to life. The meaning of a truth is always more basica than its value or its purpose.
+
+No one is ever wholly wrong; there is always a grain of truth in whatever anyone says, or is in their being.
+
+Rather than focusing only on what is false, or who or what is at fault, wisdom involves focusing on whatever is true, whole (wholesome), valid, and right.
+
+One knows truth as much through the process of feeling as through the process of thought.
+
+Recognition of a deep truth requires that one place as full a reliance on personal, subjective, and unreasoned feeling (personal validation and intuition) as on impersonal, objective and reasoned form (facts and proofs).
+
+It is only when both feeling and thinking are used together that one may know Truth.
+
 {{footnotes}}
 
 ### Faith
+
+All of choice is uncertain; one can never know all the consequences resulting from one's least action.  
+Reason can provide only a partial basis for effective (ethical) choice.  
+It is also necessary to make a careful, deep, and honest evaluation of the totality of one's feelings.
+
+**Reason:** The use of a fullness and completeness (accuracy) of *thinking* as the primary basis of one's choices.
+
+**Faith:** The use of a fullness and completeness (precision) of *feeling* as the primary basis of one's choices.
+
+When one is whole, healthy, knows fully and with clarity, and accepts unreservedly the totality of one's feelings and thoughts on all levels of being, the choices one makes in accordance with those feelings and thoughts will be at once wholly ethical and wholly effective.
+
+Both thought and feeling, truth and faith, are to be applied together in fullness to attain efficient, effective ethical choices that are consistent with one's personal Path of Right Action.
+
+No effective choice can be made only the basis of reason or faith. All natural choices involve some elements of reason and some elements of faith. These work best when used in an intimate mixture with one another, especially *after* validating that each can stand completely on its own <u>without</u> the other.
+
+To have faith in a world (universe) is to have wisdom, knowledge, peacefulness, and insight.  
+To have faith in oneself is to have security, skill, creativity, and playfulness.
+
+To have faith is not to have certainty; it is to allow Trust.  
+Faith and reason are not in opposition; they are mutually reflective, complementary aspects of a deeper whole.
+
+Faith has no reason of its own; yet all reason implies faith.  
+Reason has no faith of its own; yet all faith implies reason.
+
+Faith cannot be constructed or possessed. Faith is not a commodity.  
+Faith, never finite or constrained, is necessary to all commerce and creativity.  
+Faith contributes to confidence and is involved in all practicality, reason, and construction.
+
+Faith is not blind; it is *vision wide open*. Faith is an <u>acceptance</u> of potentiality and creativity, rather than an ignorance of reality and actuality. To have faith is to embrace the mythic, rather than to be rejecting the factual.
+
 {{footnotes}}
 
 ### The Path of Right Action
+
+1. It is always possible to choose in a manner that is win-win for all involved, <u>including</u> oneself, at all levels of being (for all scales and aspects of consciousness from the smallest to the ultimate). It is always worthwhile to search for the best possible choice. There is never a circumstance in which it is not possible to choose in a win-win manner.
+
+2. A win-win choice applied to one situation is adjacent to the win-win choice for each succeeding situation. Choosing the best choice always enables one to continue to choose well. Win-win choices are mutually self-supporting. As such, optimal choices are contiguous with one another, forming the *path* of right action. The "path" is the perfect possible sequence of one's own personal and unique choices.
+
+3. The degree to which it seems that one cannot make choices to that maximal benefit of all involved, including oneself, at all levels of being, is the measure of one's deviation from the path of right action. In circumstances where it *seems* that a situation requires a win-lose choice, the selection of the best choice for all involved will be the one leading in the direction of the path of right action, allowing eventual convergence with one's own, personal, absolute path.
+
+*The path of right action* is a realization of the self-supporting dynamics of effective choice. Once on this path, one lives in a dynamic balance: participating, creating, and experiencing; one acts with a clarity which is both internal and external.
+
+A total continuity of the subjective always parallels a total symmetry of the objective. To enact choice with a total alignment and agreement of feeling, in all aspects and on all levels of self, is to create an outcome which is in alignment and agreement with, and beneficial to, all forms and beings (life) in the world.
+
+With clarity one can act with a totality of clear conscience, without guilt or any internal hindrance (fears) of any kind. Within the discipline of the path (a seeming limitation), a true freedom of life is found.
+
+One cannot determine, take away, or make choices for another. One must (and can only) make their own choices. No other can make choices for oneself, or take one's choices completely away. Others may be able to influence one's choices; however, they cannot determine them.
+
+There is no one single right path of action for all individuals. There is only the unique right path for oneself.
+
+One cannot perceive, walk, or determine, what the path of right action is for another, or on behalf of another.  
+One can only attempt to perceive and walk (choose) one's own path of right action through life.
+
+Confusing one's own path with that of any others will result in misunderstanding, dis-ease, illusion, disillusion, conflict, and pain. A clear knowledge and continued practice of one's own path results in understanding, ease of life, creativity, synchronicity, and joy. To practice one's path is to be in an alignment with all of life.
+
 {{footnotes}}
 
 ### Impeccability
+
+Impeccability is the perfection of ethics. It involves a completeness of interaction at all levels of being. The more one acts ethically, the more one is required to act ethically, and the easier and more natural the pattern of one's life.
+
+An action of self is ethical to the degree that it increases the symmetry and continuity of self, world, and the relation between them. To act in accordance with ethics is an affirmation of the integrity of self and the significance of others. Ethical impeccability is a practice that knows sacredness by enacting sacredness.
+
+One's choices are maximally affirming and sacred when they involve all aspects of self and have continuity and connection to others (the world). Choice is effective to the degree that it involves *both* a significant reflection on the meaning(s) of one's prior experience(s) *and* a significant investment of new meaningfulness (a significance which is reflective of the highest dreams of all concerned).
+
+The action of **labeling** something or someone is problematic to the exact degree that it encourages a tendency to focus on only one aspect of that which is labeled, rather than on the whole. To use a **name** in a manner which accepts and honors the whole is valid.
+
+Whenever there is an asymmetry of value, a break or discontinuity between those parts of a whole which are valued and those which are not, there is an associated experience of pain.
+
+**Prejudice** is a maintained discontinuity in the distribution of one's choices.  
+It is an attempt to make choices beyond the boundary of self, as if to make choices for someone else.  
+Prejudice is the choice to never choose again; to be forever insensitive to all experience, thought, and feeling.  
+*Prejudice reflects a discontinuity in one's awareness of <u>change</u> and interchange.*
+
+**Selfishness** is the failure to recognize and accommodate the needs of another when it could be done at little or no cost to oneself. It is both an ignorance of the possible benefits one's choices may have for another, and an unwillingness to correct that ignorance. Selfishness reflects the loss of insight for a win-win result for all involved.  
+*Selfishness reflects a discontinuity in one's awareness of <u>choice</u> and potentiality.*
+
+**Cruelty** refers to an act that reflects an absence of sensitivity for any one or any part of those who would be affects by those acts. One acts with cruelty when one has an absence of, or presumes to have an absence of, sensitivity to interaction and consciousness on the part of any other.  
+*Cruelty reflects a discontinuity in one's awareness of actuality, <u>cause</u>, and consequence.*
+
+To act with **grace** is to act with a distribution of awareness and sensitivity which matches the effects and consequences of one's actions and choices. When making choices, one must remain sensitive and aware of that which is not oneself (the shared significance of other people and the world), as much as one is aware of one's own needs, wants, and desires.
+
 {{footnotes}}
 
 ## Aphorisms of Being
@@ -1062,7 +1164,7 @@ These aspects cannot occur singly; they **must** always occur together[[<p>[…]
 ### Worship and Respect
 {{footnotes}}
 
-### Satifaction and Enlightenment
+### Satisfaction and Enlightenment
 {{footnotes}}
 
 ### Soul, Mind, and Body
