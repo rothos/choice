@@ -571,7 +571,7 @@ The apparent degree of **intelligence** is in proportion to the rate of change o
 
 The quality of intelligence is considered in terms of the depth, clarity, and rapidity of those changes. The quantity of intelligence is proportional to the degree that one's perceptions and thoughts are transformed into other perceptions and thought, and is inversely proportional to the time required to implement those transformations. The greater the degree of the change in perception, the greater the number of ways in which that change occurs, and the more rapidly the change occurs, the greater the degree of intelligence.
 
-Clarity is the basis of discipline in thinking. In the practice of spirituality, philosophy, and art, <u>clarity</u>, no simplicity, is the more essential value. To speak and write with elegance and grace is not to be demonstrably simple, as much as it is to be profoundly clear.
+Clarity is the basis of discipline in thinking. In the practice of spirituality, philosophy, and art, <u>clarity</u>, not simplicity, is the more essential value. To speak and write with elegance and grace is not to be demonstrably simple, as much as it is to be profoundly clear.
 
 The concepts of simplicity and clarity are distinct, even though they may often appear in the same context.
 
@@ -1133,15 +1133,149 @@ To act with **grace** is to act with a distribution of awareness and sensitivity
 ## Aphorisms of Being
 
 ### Communication
+
+Essence is not defined by an ultimate conclusion, symbology, or ultimate form;  
+it is known by its significance in the present.
+
+In essence, the dynamic of communication is the same dynamic as that which occurs between self and reality. Ultimately, languages are domains and domains are languages. By understanding the inherent dynamics of all communication, one can better understand the metaphysics of creation, interaction, and existence ('the Universe'), the dynamics of choice, change, and causality.
+
+Information begins and ends in objectivity. Communication begins and ends in subjectivity. Information is defined in terms of form, quantity, discontinuity, and symmetry. Communication is defined in terms of feeling, quality, asymmetry, and continuity.
+
+The content of communication is form (in*form*ation). As such, the greater the degree that something is subjective, the larger the number of transformations required to express it (i.e., as necessary to convert/transform feeling into form). Perception (existence), unto itself, is always complete. Expression (creation) is always incomplete.
+
+*First Parallel Aspect:* The degree to which communication is literal and has the power (purpose) to convince and persuade, is proportional to the degree that it involves a transition in scale from the microscopic (detail) toward the mesoscopic within only one domain of representation.
+
+The greater the degree that the content of communication involves a movement of one's awareness from small details back toward the natural ranges (scale) of one's life, the more the communication has expressive power, can be interpreted literally, and will persuade one of its truth.
+
+*Second Parallel Aspect:* The degree to which communication (vision and intuition) is symbolic and has strength, value, significance, and insight (nurtures motivation), is proportional to the degree that it involves a transition in scale from the macroscopic (overview) toward the mesoscopic within many domains of representation.
+
+The greater the degree that the content of communication involves a movement of one's awareness from a wide-ranging overview back toward the natural ranges of one's life, the more that the communication has perceptive strength, must be interpreted figuratively, and has greater insight, significance, and meaningfulness (mythic value).
+
 {{footnotes}}
 
 ### Meaning, Purpose, and Value
+
+Meaning, purpose, and value are distinct, inseparable, and non-interchangeable.  
+To truly have any one of these, all three must be present.
+
+One's sense of meaning refers to the <u>emotion</u> (energy) of the subjective context of choice.  
+One's sense of purpose refers to the <u>form</u> of the subjective context of choice.  
+One's sense of value refers to the <u>feeling</u> of the subjective context of choice.
+
+*Within Self (within the subjective):*  
+Purpose is a measure of that which is internal to the boundary of self.  
+Value is a measure of that which is external to the boundary of self.  
+Meaning is a measure of that which crosses the boundary of self.
+
+*Within World (within the objective):*  
+Purpose is a measure of the external potentiality of a thing (its degree of perceived utility for oneself).  
+Value is a measure of the internal potentiality of a thing (its perceived utility for others).  
+Meaning is a measure of the potentiality between things.
+
+Meaningfulness and significance is the synthesis of both value and purpose. The degree to which an eventity is meaningful is proportional to the multiplicative product of the degree that the eventity has value and the degree that it has purpose.
+
+Everything has significance. There is never an absence of significance. Every perception and expression has some degree of meaningfulness. In significance, all perceptions and expressions have some degree of purposefulness and value.
+
+There is no single purpose or any single value for all of life, all of consciousness, all of beingness, in any world or domain. The purpose, value, and significance of each life, consciousness, and being, is always plural. No eventity or domain is ever without—or ever has just one—purpose, value, or meaning.
+
+Perception, experience, and causality are considered in terms of value.  
+Expression, creativity, and choice are considered in terms of purpose.  
+There is no expression that is without purpose. There is no perception or experience that is without value.  
+All experiences have equal value. All expressions have unequal purpose.
+
+Value is always described, from the inside toward the outside.  
+Purpose is always prescribed, from the outside toward the inside.
+
+The nature of purpose is from top to bottom, largest to smallest, and from without to within.  
+The nature of value is from bottom to top, smallest to largest, and from within to without.
+
+Potentialities always have value. Actualities always have purpose.  
+The degree of value associated with an eventity is proportional to the degree that the eventity has potentiality.  
+The degree of purpose associated with an eventity is proportional to the degree that the eventity has actuality.
+
+The value of a tool increases with the subjective assessment of the potential uses to which the tool could be applied. The purpose of a tool increases with the objective assessment of the actual uses to which the tool has been applied.
+
+*First Parallel Aspect:* In absolute essence, all values are equal. Each value mutually supports every other value on the same level of being. No single value excludes or precludes any other. <u>All</u> values coexist and support all other values. Only by having <u>all</u> values may one have <u>any</u> values.
+
+*Second Parallel Aspect:* In absolute essence, all purposes are unequal to all other purposes. Each purpose on each level of being precludes all others on that same level of being. Purposes on one level of being may be component parts of those on other levels, implementing them. Only one purpose may be held at a time. Purposes will always contain or exclude other purposes.
+
+Purpose is a reflection of want. Meaningfulness is a reflection of desire. Value is a reflection of need.  
+Purpose, value, and meaning are explicit and objective.  
+Want, need, and desire are implicit and subjective.
+
+The concepts of practicality and efficiency refer to purpose. Alone, they do not have value or meaning.  
+To over emphasize purpose, function, and work is to risk losing one's values, self worth, and feeling of the significance of life, the meaning of one's own and the value of all others.
+
 {{footnotes}}
 
 ### The Significance of Life
+
+To consider progress is to assume purpose. What may be the purposes of one may not always be the purposes of another. Progress to one may be regress to another.
+
+Meaning, in contrast with value and purpose, cannot be held either by self or other. Meaning is always (and only) in between both self and other. Meaning is neither given nor taken, neither shared nor not shared. Meaning *is* — and has being — at all scales, from the smallest to the ultimate (the All).
+
+Purpose is individual. Evolution is universal. Evolution is not progress.  
+Evolution is the purpose of life to become more alive.
+
+Meaning, meaningfulness, and significance are cooperative. Ultimately, both purpose and value are also cooperative. Purposes, which on the surface appear to be contradictory, are at a deeper level seen to be consonant (are seen as a truthful reflection of desire).
+
+Nothing is purely dynamic or perfectly static. Nothing is purely chaotic or perfectly logical.  
+Nothing is perfectly random or absolutely deterministic. Nothing is purely chosen or purely causal.
+
+The significance of something, a life, event or act, is present tense; it is not defined by the past or by its eventual future. Significance in the present defines the meaning of the past, and the meaningfulness of the future.  
+Meaningfulness defines both value and purpose.
+
+To say that something has had value int he past, or to say that something will have purpose in the future, is only to know significance in the present; neither more nor less. The meaningfulness of an eventity, a self, a life, is independent of its temporality.
+
+Significance is scale, position, and direction invariant. It does not matter what size, what duration, how permanent or impermanent something may be, its significance will be the same. Significance does not depend on large and small, high or low, near or far; it applies at all levels of being equally. The significance of a life does not depend on where one lives, who or what one knows, what one has or what one does. Significance is innate, independent of all state and function, worth and means.
+
+A symbol (work of art, event, the life of a self, subjective expression, etc.) has *value*, connotation, potentiality and strength in proportion to the number of interdomain[[Intradomain refers to relationships <u>within</u> a domain. Interdomain refers to relationships <u>between</u> domains.]] relationships that describe it.
+
+A symbol (life, etc.) has *purpose*, denotation, actuality, and power in proportion to the number of intradomain relationships that define it.
+
+A symbol (life, etc.) has *meaning* and significance in proportion to the product of the number and the degree of the interdomain and intradomain relations in which that symbol is so involved.
+
+The degree of the perfection of value is the product of the degree to which one values all things, and the degree to which one values all things equally.
+
+The perfection of purpose increases with depth, coherency, and the degree to which it is manifested (expressed) through other purposes and actions with clarity, purity, and accuracy.
+
+The degree to which one realizes meaning and significance in life is in proportion to the product of the degree of one's perfection of value (perception/expression) and the degree of one's perfection of purpose (expression/creativity).
+
+Life is increased and made greater when always seeking to be creative and joyful (artistic). Life diminishes and becomes less when always trying to make life easy and comfortable (practical).
+
+Life is significant and meaningful more than it is purposeful or valued. The purpose and value of one's life will always find its basis in the meaningfulness of one's life.
+
+The significance of a single life can only be known by its connections to other lives. The significance of a single world can be known only by its connection to other worlds. To know the meaning of any existence (any single life), one must know the meaning of many existences (many lives, worlds, and domains).
+
+The strongest, most affirming, and sustaining value is the acceptance of diversity in all creativity and experience. The deepest purpose, taking precedence over all others, is the desire to realize the maximum possible creativity and experience.
+
+All experiences and creations are valid, valued, and valuable.  
+No one experience or creation is any less or more valid than any other.  
+Experiences and creations of lesser intensity are as valid as experiences of greater intensity.
+
+The degree of significance in life increases dramatically when approaching the absolute limits of perfection of value and purpose.
+
+There is no life without significance, and there is no significance that is not alive.  
+Life and meaningfulness are intrinsic to one another; they are never separate.
+
+Life **is** its own purpose, value, and meaning. All that is life, all that is alive, is valued and sacred.  
+THe purpose, meaning, and value of all life is to live, to live well and fully, on all levels of being and in all worlds.
+
 {{footnotes}}
 
 ### Equanimity
+
+Ultimately, all of consciousness in all times and places and in all worlds has the same absolute intent: to maximize the degree of both experience <u>and</u> creativity. This is the *reality* of love: the actuality of potentiality *and* the potentiality of all actuality.
+
+The universe values all experiences and creations equally; it has no favorites. Everything is intrinsically significant. Experience/creation cannot not be meaningful, valuable, and purposeful[[This applies to each experience, each creation, and each type of experience and creation. An accidental experience regarded as 'undesirable' or painful is equally valued by "the all" as the chosen experience of one's desire.]]. All creativity, all life, is valued and significant as *being* creative and alive.
+
+To negate the significance and value of *any* life is to negate the significance of <u>all</u> life.  
+Either everything (at all scales of being, in all worlds, at all times) is sacred, or nothing is.
+
+Heaven will open only to those who know all is sacred. Hell will imprison only those who think nothing is sacred.
+
+[…]
+
 {{footnotes}}
 
 ### Errors of Extrema
