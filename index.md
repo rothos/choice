@@ -790,7 +790,7 @@ The best form of health is always found in interdependence. All of nature lives 
 The most effective choice will always be the one made from a basis which is the most enabling of all other choices.
 
 In that the deeper emotions are the more affecting ones, they are also the most enabling ones.  
-Ultimately, love is more enabling of choice than any other emotion[[Choice made on the basis of any other emotion is less effective. Although making choice on the basis of anger may appear to be more satisfying in the short-term, such a choice is in the long-term far less effective at leasing anything truly significant. For example, choice made on the basis of skepticism or fear always results in insignificance; it is ultimately impractical.]].
+Ultimately, love is more enabling of choice than any other emotion[[Choice made on the basis of any other emotion is less effective. Although making choice on the basis of anger may appear to be more satisfying in the short-term, such a choice is in the long-term far less effective at realizing anything truly significant. For example, choice made on the basis of skepticism or fear always results in insignificance; it is ultimately impractical.]].
 
 Choices made on the basis of love are healthier, more nurturing, and more effective. Always choose from the basis of love. Always choose with an immediate awareness and consciousness of the manner in which the deepest essence of love and desire is reflected and connected to that choice.
 
@@ -1352,7 +1352,57 @@ There is neither absolute dependence nor absolute independence; there is only in
 
 ### The Six Paths
 
+Greatness has aspects of form (as in ideas) and feeling (as in the arts).  
+The most effective philosophies, the greatest ideas of an age,  
+have equal components of science, spirituality, and mysticism.  
+The most effective arts, the greatest works of art in an age,  
+have equal components of technology, religion, and magic.
 
+The greatest ideas of an age involve a scientific perspective. There needs to be discipline, rigor, and clarity of thinking. A great idea involves spirituality. It requires high degrees of acceptance and openness to be appreciated in the context of one's previous assumptions, presuppositions, and beliefs. A great idea involves deep insight, intuition, and the qualities of feeling, dreaming, and the unconsciousness of a mystic, as well as thought and work. Only when significant degrees of science, spirituality, and mysticism are used together is there any chance of developing a new, great philosophy.
+
+A great work of art involves technology in the effective execution and skill of the artist (the artist's technique). A great work of art involves religion as a source of the archetypal symbols and languages needed to convey an insightful meaning. A great work of art involves magic in its deep ability to change the perception, attention, and consciousness (state of feeling) of anyone who experiences/perceives that work of art. Only when a significant degree of all three (technology, religion, and magic) are present is it possible for a new, great work of art to be created.
+
+**The Action of the Six Paths:**  
+The practice of spirituality is the process of using learning to create acceptance within the self.  
+The practice of science is the process of using method to create knowledge within the self.  
+The practice of mysticism is the process of using divination to create wisdom within the self.  
+The practice of religion is the process of using ceremony to create symbols within the world.  
+The practice of technology is the process of using engineering to create understanding within the world.  
+The practice of magic is the process of using ritual to create meaning within the world.
+
+**The Path Transformations of Question:**  
+The essential question of spirituality is Who.  
+The essential question of science is Where.  
+The essential question of mysticism is Why.  
+The essential question of religion is How.  
+The essential question of technology is When.  
+The essential question of magic is What.
+
+**What Comes Before, What the Means are, and What the Outcome is:**
+
+There must be acceptance before there is learning.  
+There must be learning before there is spirituality.  
+There must be spirituality before there is acceptance.
+
+There must be knowledge before there is method.  
+There must be method before there is science.  
+There must be science before there is knowledge.
+
+There must be wisdom before there is divination.  
+There must be divination before there is mysticism.  
+There must be mysticism before there is wisdom.
+
+There must be symbol before there is ceremony.  
+There must be ceremony before there is religion.  
+There must be religion before there is symbol.
+
+There must be understanding before there is engineering.  
+There must be engineering before there is technology.  
+There must be technology before there is understanding.
+
+There must be meaning before there is ritual.  
+There must be ritual before there is magic.  
+There must be magic before there is meaning.
 
 {{footnotes}}
 
@@ -1373,6 +1423,9 @@ The **Mystery of the Subconscious** refers to a mesoscopic limit: one's knowledg
 ## Aphorisms of Evolution
 
 ### Gentleness
+
+
+
 {{footnotes}}
 
 ### Spirituality and Religion
