@@ -1424,11 +1424,81 @@ The **Mystery of the Subconscious** refers to a mesoscopic limit: one's knowledg
 
 ### Gentleness
 
+**Gentleness** is a reflection of inner stillness (peace) and sensitivity (connectedness).  
+**Inner stillness** is proportional to the integrity and integration of Self.  
+**Sensitivity** is proportional the degree of involvement with Reality  
+(self-interaction, experience, and creativity with-in a world).
 
+The being of the world is realized as actuality in terms of symmetry and discontinuity.  
+The being of the self is realized as potentiality in terms of continuity and asymmetry.
+
+The more one <u>lives a worldly life</u> (is in business), the more perfectly one must practice symmetry (as in government), and the more one must eventually find greater and greater extremes of discontinuity (disconnectedness and isolation).
+
+The more one <u>lives a soulful life</u> (is in hermitage), the more perfectly one must practice continuity (as equanimity), and the more one must eventually find greater and greater extremes of asymmetry (messianic enlightenment).
+
+The outer world is best characterized by laws of symmetry, causality, and discontinuity.  
+The inner self is best characterized by principles of continuity, choice, and asymmetry (emanation).
+
+It cannot not seem that the outer world is defined by experiences of discontinuity and pain.  
+It cannot not seem that the inner self is defined by expressions of continuity and joy.
+
+**Spirituality:** The ability to remain whole and maintain a continuity and integrity of self.  
+Acceptance and integration is the effective practice of spirituality (see page 137).
+
+**Inner Peace:** A faith and realization of the capacity of one's own spiritual nature, an ability to remain whole and to maintain a continuity and integrity of self, regardless of the degree of pain and suffering experience in the world of the body.
+
+When the self can accept and integrate the experience of the deep world (of discontinuity) and remain whole (maintain a continuity and integrity of self) then one will be at peace. The realization of one's own spiritual qualities leads to an increase in one's knowledge of peace (a reduction in pain and suffering)[[To the extent that one is deeply involved with the world (to the extent that one lives), there is potential for the nature of the discontinuity of the world to be carried inward; toward the self. When the experience of the deep world is not accepted and integrated into the matrix of self, the self becomes increasingly disconnected and isolated and the experience of the world becomes one of pain and suffering.]].
+
+It will always <u>appear and seem</u> to be a fact that all of the experience of any world will be one of pain and suffering[[With careful examination it can be seen that the central concern of most great religions is suffering and its resolution (a mythos of redemption via acceptance by divinity). Considering theology is often a means to an end intimately bound up with issues and assumptions regarding personal fear, pain, and suffering.]]. Joy, comfort, and connectedness (continuity), although equally real, cannot be seen or known objectively. They must always be, or seem to be, invisible, unseen, and subjective, a part of the Self. The appearance (illusion) of fact is *not* equivalent with the being (reality) of fact.
+
+Any self-reflective consciousness in vivid and intimate contact with nature will tend to develop a high level of spiritual awareness. Living in nature inherently compels acceptance of situation, life, and truth. All forms of life in nature must ultimately accept nature as it is. The central dynamic of spirituality is about one's acceptance of that which is not self; a deep inner sense of spirituality enables continued survival in the face of suffering when alone.
+
+When involved with others in social interchange, one's inner sense of spirituality combines with others to create a shared religion[[With increasing degrees of separation from nature and more involvement in social interactions, these shared religions are increasingly defined in terms of form, rather than in terms of a capacity to create deep feeling.]]. Living in a society inherently requires that all members of that society be accepted by and into that society. Religion provides a defined code of morality for how to interact socially with others in that same culture. The central dynamic of religion is about being accepted into that which is not self. A deep religious nature enables continued membership and support in the face of suffering when with others.
+
+The interface between self and world, experience and expression, has intensity to the degree that a great integrity of self (perfect continuity) is brought into close and intimate contact with the deep world (perfect discontinuity).
+
+The integrity of self must precede the connected with the world (experience). Wellness must take precedence over fullness. The maximum level of intensity with which one may have contact with a world must always be slightly less than the maximum level of integrity that one has within the self.
+
+The rapidity and persistence of the changes one makes in the world increases with both the degree of intensity and the degree of coordination of one's interactions with that world.
+
+One's actions, interactions, and expressions have maximum effectiveness when equal attention is given to: the intensity, the feeling, and the form of the conscious choices which compose them. As such, optimum expressions of intention and thought will combine passion and emotion with quality, symbolism, and romance without giving up their literal meaning, logic, or factual nature.
+
+Significance is maximized when the degree of inward awareness (toward the soul) is in direct proportion to the degree that ones lives and has outward awareness (toward the world). Maximum effectiveness is realized when increased intimacy with self, the knowing of self, is used in balance with outward attention.
+
+For most people to experience and reflect beauty, joy, contentment, peace, and desire, it is necessary for them to live inwardly toward the core of self, increasing interaction, connectedness, and potentiality there. Bring awareness inward to increase significance in life.
+
+The degree of **intimacy** is proportional to the degree of similarity and the degree of proximity. Optimum significance is attained when the soul works in divine, direct, intimate, cooperative (loving) participation with all of life.
+
+**The Meaningfulness of Life:** to live well and fully. 'Well' means to maintain a high degree of internal integrity (symmetry) of Self; to live a healthy and wholesome life. 'Fully' means to maintain a high degree of connectedness (continuity) between self and reality; to be fully present in life.
+
+To truly acknowledge life is to expand from the motivations of "being comfortable in life" (driven by purpose or simple values of material acquisition) to the motivation to increase significance in life (driven by clarity, artistry, and creativity). This results in making choices on a day to day basis which are healthier and more enabling for all.
 
 {{footnotes}}
 
 ### Spirituality and Religion
+
+Spirituality and religion are distinct ideas and practices.  
+Spirituality relates to the integration of a world into oneself.  
+Religion relates to the integration of oneself into a world.
+
+**Spirituality** is about how one perceives and experiences, how one accepts and integrates those perceptions and experiences into oneself. It is about how one integrates life's events, reflects upon them and learns from them. Spirituality is a philosophy about the role that a reality (a world) plays within oneself.
+
+**Religion** is about how one expresses with others for the common good, the greater social and natural environment in which one lives. It is about one's expressions and connections, choices, and how one integrates their choices into the community in which one lives. Religion is a philosophy about the role one plays in a world and about how that world accepts each self.
+
+The essential difference between them, is that spirituality is a perceptive  
+and subjective process; whereas religion is an expressive and objective process.  
+Subjective experience is private, where objective expression is public.
+
+*First Parallel Aspect:* The depth of one's spiritual nature is proportional to the capacity and ability to accept and integrate all experience and all aspects of one's own inner nature. The greater the diversity and range of intensity that one can accept while still maintaining an integrity of self, the greater the level and quality of one's spirituality.
+
+The measure of one's spirituality is defined in terms of the skill and ability to integrate personal experiences of the world into one's self.
+
+*Second Parallel Aspect:* The depth of one's religious nature is proportional to the capacity and ability to integrate personal expressions and choices into the world, the community, and the environment. The greater the diversity of intensities of expression and creativity one can express while maintaining the integrity and wholeness of the world (the environment and community in which one lives), the greater the level and quality of one's religion.
+
+The measure of one's religious nature is defined in terms of the skill and ability to integrate one's expressions into the community and world in which one lives and acts.
+
+[…]
+
 {{footnotes}}
 
 ### Worship and Respect
