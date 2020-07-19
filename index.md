@@ -1497,20 +1497,147 @@ The measure of one's spirituality is defined in terms of the skill and ability t
 
 The measure of one's religious nature is defined in terms of the skill and ability to integrate one's expressions into the community and world in which one lives and acts.
 
-[…]
+Spirituality is primarily an inner, perceptive, and personal process. It is always private and is unremarked and unrecognized within culture and society.
+
+Religion is primarily an external, expressive, and public process. Each religion is at least partially public and is recognized by at least one culture or society.
+
+One feels and knows one's spirituality. One describes, defines, understands, and expresses one's religion.  
+Spirituality is about being; religion is about doing. The nature of spirituality persists, even though it cannot be created. All religions are created.
+
+Spirituality is known everywhere by everyone, yet is identified nowhere and by no one.  
+Religion is understood by no one, yet is identified by everyone.  
+Spirituality is always discovered and is never created or manufactured.  
+Religion is always created and is never found or discovered.  
+Spirituality is always discovered within the self and never in the world.  
+Religion is always created within the world and never in the self.
+
+Spirituality is neither human nor inhuman. Religion must be either human or inhuman.
+
+Spirituality always refers to the inner self and has no name; whereas religion always refers to what is outside self and is always named. It is possible for one to join a religion, yet one cannot 'join' a spirituality. Spirituality has no name. Only religions have names. A named philosophy is a religion. If a philosophy (way of life) has neither name nor a socially recognized form, it is, in essence, spiritual.
+
+Spirituality does not require a commitment to anything external to oneself. Spirituality requires no actions and no demonstrations, for it is in the process of one's being. A religion is defined by its actions, devotions, and worship, and requires commitment of oneself to another. Spirituality is defined in terms of one's being; it is only by one's actions that one is religious.
+
+Even though one can appear and act in any number of ways, one cannot be other than oneself.  
+For each self, there are many religions. For each self, there is only one spirituality.
+
+There is no source for spirituality. Spirituality is not something that one obtains or attains.  
+Spirituality has no source and no destination and it can neither be created nor destroyed.  
+Spirituality has only beingness.
+
+There can be no spirituality without a self (soul) and there is no self that is not to some degree spiritual[[Some type of spirituality is a basic and intrinsic part of everyone's life. In that life cannot be lived without perception or experience, and the implicit integration of these into self, one also cannot not be to some degree spiritual. In that life cannot be lived without expression, choice, and creativity, and at least implicit integration of these into a world, one also cannot not be to some degree religious. In that there is a social need for unity on the part of all people, there is some aspect of religion in everyone's life.]].  
+There can be no world without a religion, and there is no religion that is not bound to a world.
+
+The very beingness of self begets a beingness of spirituality. The very beingness of a world begets the beingness of a religion. Each is of nature.
+
+Religion begins with one's desire to express an inner felt spirituality. All great religions begin with one's own life. Religion need not be external, remote, impersonal, abstract, or absolute. One's home, the natural world on this planet, is where religion and life is.
+
+By emphasizing and valuing clarity[[Clarity is distinct from simplicity. An emphasis on simplicity is <i>not</i> central to the realization of spirituality and enlightenment. The practices of simplicity, such as abstinence, asceticism, and minimalism, are means to an end: the realization of true clarity. The desire and practice of "spiritual simplicity" must always be grounded and return to an underlying desire for clarity. True clarity, particularly regarding the meaningfulness of life, can always be obtained in more than one way.]], one is enabled to value diversity and complexity. Spirituality is about acceptance of life, which includes acceptance of its inherent diversity and complexity.
+
+The process of evolution—the basis of diversity in life and love—requires one to accept that life will be complex[[There are many examples of why complexity must be accepted in conjunction with simplicity. Relationships with loved ones are richer to the degree that they involve many different aspects of our lives. The web of nature is beautiful and alive because of its complex diversity. Ecology is healthy and vibrant in proportion to the degree that the web of life is rich and wild. One's own body—a marvel of personal biology, ecology, and chemistry—is vastly complex.]]. An overzealous attempt to 'simplify' life is unnatural; it can only result in suffering.
+
+For every way in which something is simple, there are at least two ways in which it is complex. Yet it is also true that for every aspect of complexity, there are always at least two ways in which it can be simple.
 
 {{footnotes}}
 
 ### Worship and Respect
+
+Worship is not respect. They are distinct and non-interchangeable.
+
+The term **worship** characterizes the behavior of one who believes there is some *irreducible difference* in the basic nature of the being of self and the being of the object or personae of worship (deity).
+
+The term **respect** characterizes the behavior of one who believes there is a basic *sameness and similarity* in the nature of being of the self and the object or personae of that respect.
+
+Deity, spirit, and soul act only in a personal manner; never in a social one.  
+To be truly spiritual is to trust oneself and one's own experience.  
+The highest spirituality, divinity, and enlightenment is within.  
+The inner nature of self is always inherently good.
+
+All of life is valid. The validity of one's own life is intrinsic.  
+It is Truly Owned and cannot be diminished or taken away.
+
 {{footnotes}}
 
 ### Satisfaction and Enlightenment
+
+Happiness cannot be sought; it is a state of being, one must remain receptive to it.
+
+Having options, opportunities, and potentials (choice) is as important as goals actualization, and fulfillment (consequence). 'Potentiality' is equally as important as 'reality'.
+
+Satisfaction is a function of both anticipation and realization, and is dependent on a fullness of both.  
+**Satisfaction** is the product of both expectation and realization.
+
+The sense of satisfaction with being is proportional to the product of  
+the degree to which one thinks they have chosen/created/defined purpose and have purposes, and  
+the degree to which one feels they have experienced meaning, beauty, and have value.
+
+Fulfillment, happiness, and joy increase in proportion to the right totality of interaction between self and reality. Too little interaction, uniqueness, and intensity (significance) in life leads to chronic sadness and diminishment of life[[Such a lack is often the result of too much habituation and stasis.]]. However, too much intensity and interaction can cause stress, strain, and harm to growth. Satisfaction results from living in the balance of one's capacity, neither more nor less.
+
+The personal and global evolution of both perception and self is the process of becoming more authentic, more defined, and more refined. This includes the development of both feeling (quality) and form (quantity). One's evolution is Truly Owned.
+
+**Enlightenment** is to become full of light. To be full of light one must have clarity and be clear. The purification and clarification of self allows for the divine nature of our innermost self to shine through, affecting and enhancing all of one's actions and insights.
+
+Reality and Self are inseparable, regardless of one's level of spiritual evolution or enlightenment.  
+It is in the full realization of self, reality, and their communion, a totality of being, that one knows enlightenment.
+
+Enlightenment is a full realization of the nature of life, in all worlds. It has little to do with 'departure from the cycle of life'. One does not "transcend" the being of self and world (enlightenment is not 'escapism'), one evolves with and within them. There is always a life (living), and a context of life (nature), no matter how evolved one may be, or in which world one chooses to live.
+
+There is no "perfect" consciousness (pure action or doing) or pure spirit. There is no purely undivided (whole) consciousness. One can only approach ever closer to wholeness and holiness.
+
+Some degree of unconsciousness, unawareness and the unknown must always be present to ensure a separation of identity, individuality, and uniqueness. Diversity is as valued as unity.
+
 {{footnotes}}
 
 ### Soul, Mind, and Body
+
+The term 'self' has three distinct meanings, which are distinguished by the terms 'Soul', 'Mind', and 'Body':
+
+**Soul** refers to that which is purely internal, subjective, and which consists of a pure formless quality.
+
+**Mind** refers to the boundary and dynamics between the internal subjective quality and the external, objective form.
+
+**Body** refers to an objective symbol which is associated with a focus of choice and experience in relation to a world and which is projected into that world.
+
+Soul, mind, and body are distinct, inseparable, and non-interchangeable.  
+The mind is more fundamental than both body and soul.
+
+Many dynamics within the soul are necessary to create a single process within the mind.  
+Many processes within the mind precede each and every action in the body.  
+Many events in the body precede each dynamic within the soul.
+
+The soul of self **is** potentiality, choice, and desire.  
+Soul does not have size, composition, or position, as does the body.
+
+The soul is integral. It cannot be analyzed, decomposed, or considered in terms of components and parts. Soul is free, undefined, and indefinable. Body is fixed, limited, defined, and definable. Only the body has structure, pattern, and form; the soul has only quality — a feeling that is without structure, pattern, or form.
+
+Soul is not observable. It cannot be studied using the methods of science nor can it be measured using technology. Soul is not subject to experiment; only body can be the target of such examination.
+
+No degree of understanding the body equates to any amount of knowledge about the soul.  
+No degree of knowledge of the soul equates to any amount of understanding of the body.
+
+From the perspective of mind, the relation of attention between body and soul are mutually complementary.  
+Effectiveness in life requires the maximum combination of attention to all three aspects of self: mind, body, and soul.
+
+As a subjective context, soul *is*; soul is everywhere (has no position, location, or structure of being), and is everywhere unique. The pure, perfect essence of one's soul is a specific and exact quality (color, timbre, tonality), the spectrum of which is infinitely detailed, rich, refined, and in all respects unique.
+
 {{footnotes}}
 
 ### Self of the Dream
+
+In any event of dreaming, in all dynamics of life, there are always at least three natures of self involved.
+
+**The Dreamer Self:** the aspect of self that creates the dream and acts from the point of view of creating the dream. It creates the stage upon which the play of the dream is enacted. The dreamer self corresponds to the mind.
+
+**The Dreamed Self:** the aspect of self that acts from the point of view of being within the dream context (created by the dreamer, along with all of the other dream content). It is the actor, a character on the stage of the dream and participates within that context. The dreamed self corresponds to the body.
+
+**The Dreaming Self:** the aspect of self that is apart from, independent of, both the dreamer self and the dreaming self. It neither creates nor participates in the dream; it has its being and activity in another (world) context altogether. For example, it is the self associated with the sleeping body (the Earth Object Domain, the common world "real life"). The dreaming self corresponds to the soul.
+
+In any domain, these three aspects of self are intrinsic, always implicit. They are Truly Owned.  
+Their beingness can never be taken away or diminished.
+
+In every event of life in any world, there will always be (cannot not be) these three aspects of self.
+
+To come to full and balanced consciousness in all three aspects, all three modalities of being, is to be and become **enlightened** within the context of that world.
+
 {{footnotes}}
 
 ## Appendix
