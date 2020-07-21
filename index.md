@@ -816,7 +816,7 @@ Each "action" is a form of communication between self and world; it involves asp
 
 In connection with the nature of effective choice, the principles of effective expression and communication (all of which are involved in any real practice of ethics) are ultimately defined in terms of the attainment of the basal motivations.
 
-To consider how to increase the effectiveness of one's choices is to determine what is meant by simultaneously preserving the integrity and increasing the potentiality of both life and evolution. To maximize potentiality and integrity is to maximize the combination of symmetry and continuity[[To maximize the degree of continuity and the degree of symmetry is <i>not</i> to assert that symmetry and continuity will be realized in exactly the same manner for the same thing at teh same time. Rather, symmetry and continuity are to be considered as applying to difference <u>aspects</u> of one common dynamic, the relationship/communication between the subjective (self) and teh objective (world). The principles of ethics will, therefore, describe what would be required in this common dynamic (communication) for the subjective and the objective to be realized (made real and known) <b>as</b> objective and subjective.]] in the relationships between self (the subjective) and reality (the objective).
+To consider how to increase the effectiveness of one's choices is to determine what is meant by simultaneously preserving the integrity and increasing the potentiality of both life and evolution. To maximize potentiality and integrity is to maximize the combination of symmetry and continuity[[To maximize the degree of continuity and the degree of symmetry is <i>not</i> to assert that symmetry and continuity will be realized in exactly the same manner for the same thing at the same time. Rather, symmetry and continuity are to be considered as applying to different <u>aspects</u> of one common dynamic, the relationship/communication between the subjective (self) and the objective (world). The principles of ethics will, therefore, describe what would be required in this common dynamic (communication) for the subjective and the objective to be realized (made real and known) <b>as</b> objective and subjective.]] in the relationships between self (the subjective) and reality (the objective).
 
 To develop the principles of ethics is to determine a method and, therefore, a practice of making maximally effective choices. An effective set of ethical principles will positively specify[[To assert "positive specification" is to have an ethics which describes what or how to choose — which choices are best — rather than stating only what not to choose (which choices are worst, to be avoided). All negatively defined ethical systems must be regarded as incomplete.]] and characterize effective choices.
 
@@ -849,7 +849,7 @@ Life is ultimately ethical, yet it is not moral.
 To be meaningful, life will involve some degree of rhythm and change;  
 a dynamic which eventually exceeds and extends beyond all fixed boundaries.
 
-One chooses most effectively when choosing (and continuing to choose) from one's deepest basis of desire (love). The best choices express that desire in a manner which is affirming to all of life at all levels of being, in all worlds[[This principle of effective choice continues to apply regardless of the level of intensity involved in that choice. In making choices of high intensity, a corresponding level/degree of integrity in representing that desire and affirming life is required]].
+One chooses most effectively when choosing (and continuing to choose) from one's deepest basis of desire (love). The best choices express that desire in a manner which is affirming to all of life at all levels of being, in all worlds[[This principle of effective choice continues to apply regardless of the level of intensity involved in that choice. In making choices of high intensity, a corresponding level/degree of integrity in representing that desire and affirming life is required.]].
 
 Choices and actions are most effective when they are the most ethical;  
 when they preserve both symmetry **and** continuity.
@@ -869,7 +869,7 @@ One is permitted, empowered, and required to respond to an action affecting ones
 
 In all interchange, there is to be maintained continuity. Where one has been deeply affected, that one may effect deeply; not to diminish or to escalate, but to change. Such changes are best and most effectively realized when enabling the realization of the deepest dreams of all involved.
 
-To sustain the integrity of self, be conscious of an choose the level of intensity of interaction with a world.  
+To sustain the integrity of self, be conscious of and choose the level of intensity of interaction with a world.  
 Be sure to choose the time of the best usage of intensity and of one's own involvement with it.
 
 One can only make one's own choices. One can only accept what is in one's own experience.
@@ -889,7 +889,7 @@ Because the essence of objective judgment involves choices which are external to
 
 The practice and implementation of ethics involves personal choice; it is never concerned with either justice or judgment.
 
-In that the ends to not justify the means, neither do the means justify, determine, fix, or ultimately define the ends[[For example, favorable intentions alone are not sufficient to create a favorable outcome.]]. There is always more than one path, more than one way to accomplish something; and there is always more than one thing accomplished.
+In that the ends do not justify the means, neither do the means justify, determine, fix, or ultimately define the ends[[For example, favorable intentions alone are not sufficient to create a favorable outcome.]]. There is always more than one path, more than one way to accomplish something; and there is always more than one thing accomplished.
 
 Ultimately, the consequences of one's action always return to the point from which intent originates. In matters of crime and guilt, it is the act itself which is its own worst punishment. No one can hide from the consequences of their choices[[This is a direct consequence of the definition of self. Refer to page 8.]].
 
@@ -1643,15 +1643,77 @@ To come to full and balanced consciousness in all three aspects, all three modal
 ## Appendix
 
 ### Simplicity and Clarity
+
+For an example of how the concept of simplicity is distinct from clarity, and of how clarity can be more valued than simplicity, consider a sphere of pure, black coal as compared to a large, multifaceted diamond. The sphere of black coal represents one of the simplest physical objects. In contrast, the diamond represents a clear and complex physical object.
+
+The simple sphere of coal will not allow light to pass through it, for it is not transparent. Despite the complexity of the diamond, however, it does pass light. In this way, one can see that the ability to transmit light (a metaphor for understanding) is not dependent on complexity or on the materials used, for both coal and diamond are made of just carbon. The beauty of the diamond, in its prisms and sprinkles of light, depends on a complex detailed technology of careful faceting. Light, which typically represents love and spirituality in symbolic terms, is made beautiful by the clarity, and to some extent the complexity, of the diamond. Simplicity cannot therefore be the one and only consideration of philosophy, spirituality, or enlightenment.
+
 {{footnotes}}
 
 ### Symmetry and Continuity
+
+The concepts of symmetry and continuity are two of the most basic and powerful concepts in philosophy and metaphysics. Understanding them enables one to recognize the ultimate essence of many other forms of knowledge and practice. Ultimately, all notions of symmetry are about a sameness of content when there are changes of context. To make this notion of symmetry a little easier to understand, consider the following metaphors and examples.
+
+Imagine a black square drawn on an otherwise blank page. Consider what happens when the paper is turned upside down. If one were to imagine a point of view sitting in the middle of the square looking outward, the action of turning the page around would apparently exchange the floor and the ceiling. A viewer sitting on the square would think that their environment had changed even though the square itself has not changed. When turning the square end over end, the context of the square has changed. However, even when the page is turned over the image of the square remains visually unchanged, regardless of the point of view used to see it. This notion of content remaining the same even when the context has changed, is why the figure of a square is called 'symmetric'.
+
+As another example of the abstract notion of symmetry, consider any scientific theory. The laws and methods of science are all inherently based on the notion of symmetry. For example, if a scientist were to do an experiment to measure the boiling point of water, under ordinary circumstances they would discover it is 100 degrees Celsius. The results of this experiment do not depend on whether it is done somewhere in the USA or somewhere in France. It also does not matter whether the experiment was done yesterday or last week, the result would be the same.
+
+In science, it is reasonable to expect to get the same result regardless of the location or the time at which the experiment is performed. The content (the result of the experiment) is the same even though the experiment is done in different places or at different times (a different context). In a more general sense, the universality of the 'natural laws of science' are thus based on they concept of symmetry. When considering *anything* which has an objective nature, the notion of symmetry is the ultimate conceptual tool to use.
+
+Another example of symmetry is the notion of the conservation of matter and energy. If a bottling factory fills a bottle with water and seals it, the amount of water in the bottle will remain the same, even though a customer may not open it until much later. With the passage of time and even with changes in location, the amount of water in the bottle remains the same. Changes in time and location are changes in context. The sameness of the amount of water in the bottle is a sameness of content. As such, the physical law of conservation is a symmetry law.
+
+Ultimately, the notion of symmetry is the basis of all science and technology. As a final example of this, consider that mathematics—which is a "basic language" of science and technology—is often described in terms of equations and theorems. In itself, an equation is a statement of a sameness, an equality, in two different contexts, the left and right sides of the equation. The notion of a 'valid proof' is to show that a given relation, as a content, remains the same under various transformation — the steps of the proof, also changes in context. As such, the language of mathematics is the ultimate language of symmetry: every statement (each equation) and every argument (each proof) is implicitly an expression and assertion of symmetry.
+
+In contrast with symmetry, all notions of continuity are about a sameness of content when there is a sameness of context.
+
+To assert continuity is to state that a tiny change in context will at most result in a proportionally small change in content, rather than sudden and dramatic changes in content. The notion of continuity is about the proportionality of changes in content; that changes are never drastic or sudden, given any arbitrarily slight change in the context. A discontinuity is where there is an abrupt shift, break, or change in content while the context is otherwise very similar.
+
+As an example of these notions of continuity and discontinuity, consider a phone conversation where one person abruptly, with no indication or forewarning, hangs up. In one moment, there is pleasant conversation and in the next, silence. In this even, the person still on the phone observes no significant environmental difference between the instant the conversation was alive and the instant it was not (i.e., the context is still much the same). However, during the infinitesimal period of time it took for the disconnection to happen (a sameness of context), the content (conversation), has shifted dramatically. Most of the time this type of disconnection does not happen and people remain in 'continuous contact' with each other. In a normal practice, there is a protocol for *gradually* establishing, using, and completing a phone conversation.
+
+As another example, consider the spectrum of visible colors. In a spectrum each color fades into the next as in a rainbow. There is no sharp boundary between various colors; there is no definite place where one color begins and another ends. All colors have a common spectrum and come from a common energy. The commonality of essential energy is an example of an underlying continuity. While the notions of form and quantity may be best considered in terms of symmetry, the notions of quality and feeling are best considered in terms of continuity.
+
+The notion of continuity is similar to that seen in any basic study of mathematical functions. However, unlike symmetry (which is best applied to the objective), the notion of continuity is more appropriately applied to the nature of that which is subjective. When considering *anything* which has a subjective nature, the notion of continuity is the ultimate conceptual tool.
+
+As such, effective metaphors about the nature of continuity are ones which involve the nature of consciousness and the self, rather than things in the world. In more practical terms, to consider a continuity of self is to assert a wholeness of self; that there is no part of self disconnected from, or rejected by, another part of self. To say that one has continuity of self is to essentially be a healthy, whole, integral being.
+
+As a metaphor, consider the work of a therapist. The basic work of the therapist is to help the client know, accept, and integrate all aspects of self and life in a healthy manner. A good therapist helps the client to return to healthy by nurturing inner awareness, knowledge, acceptance, and love in life and relationship. This may require the client to learn how to live well and how to coordinate and balance all personal behaviors, beliefs, feelings, and attitudes. The primary job of the therapist is to get one to love, nurture, and accept all aspects of oneself into an integrated and healthy functioning whole. When the client is enabled to love and accept themselves fully and in all aspects, they 'graduate' from therapy. In effect, therapy establishes an inner continuity of self (health).
+
+The idea of continuity is applied to the subjective and the self and also is applicable to society and culture. To recognize how implicit this idea of continuity is in a culture, examine the language and use of many of the ideas deeply held within religion, mysticism, and spirituality. Some of the deepest values, mythos, and beliefs relate to how one connects to deity, spirit, and the land. The concept of connection is also a concept of continuity. When an individual wants to 'belong' to a community, they are looking for the same unconditional acceptance and continuity of relationship that they should have in a healthy family. Continuity in a culture is about how one connects to one's ancestors and heritage through shared practices and rituals (rites of passage).
+
 {{footnotes}}
 
 ### The Two Principles of Ethics
+
+**The Principle of Ethical Symmetry:**
+
+<u>Where the objective/external context is different,</u><br>
+<u>and where the subjective/internal context is the same,</u><br>
+<u>the content of expression shall be the same.</u>
+
+The symmetry ethics is an expression of the notion of <i>consistent expressions</i>.  
+<b>Objective context</b> refers to the environmental circumstances in which an event occurs (when and where).  
+<b>Subjective context</b> refers to the knowing, integrity, unity, wholeness, and integration of self.  
+The <b>content of expression</b> refers to one's statements, assertions, actions, choices, and expressions.
+
+**The Principle of Ethical Continuity:**
+
+<u>Where the objective/external content is different,</u><br>
+<u>and where the subjective/internal content is the same,</u><br>
+<u>the context of expression shall be the same.</u>
+
+The continuity ethics is an expression of the notion of <i>equal valuations</i>.  
+<b>Objective content</b> refers to any thing, event, being, or that which is 'other' than self.  
+<b>Subjective content</b> refers to the quality, unique nature, or identity that is the being of Self.  
+The <b>context of expression</b> refers to one's beliefs, attitudes, understandings, and philosophies.
+
 {{footnotes}}
 
 ### Meaning, Power, and Novelty in Art
+
+The degree of meaningfulness associated with an eventity such as a work of art or a play is proportional to the degree of coherent selectivity that is defined by the selective choice(s) that compose that eventity.
+
+[…]
+
 {{footnotes}}
 
 ### An Aesthetic Basis
