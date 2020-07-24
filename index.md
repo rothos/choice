@@ -939,7 +939,7 @@ Ethics (continuity) is best realized when the react/response ratio is near to un
 ### Wisdom and Maturity
 
 Feelings, although they cannot be long held, are kept within the self.  
-Forms although they can be held long, cannot be kept within the world.
+Forms, although they can be held long, cannot be kept within the world.
 
 **Perception** is the flow and transformation of outer worldly forms into the inward feelings of self.  
 **Expression** is the transformation and flow of inward self feelings into outward worldly forms.
@@ -953,7 +953,7 @@ Perception always involves a removal of information, pattern, or structure.
 
 With increasing subjective time,  
 knowing increases when moving gradually from the macroscopic toward the microscopic, and  
-understanding increases when moving gradually form the microscopic toward the macroscopic.
+understanding increases when moving gradually from the microscopic toward the macroscopic.
 
 For one's life to be meaningful and significant,  
 the feeling within self must become forms in the world, and  
@@ -1031,7 +1031,7 @@ Truth is more than "that which one can consider" (perceive) with total confidenc
 Truth is not so much about correctness in thinking as it is about the significance and efficiency of choice.  
 It is not so much about perceptual certainty as it is about expression with clarity, effectiveness, and confidence[[True clarity implies transparency, which hides nothing. Like honesty, it is understood to mean 'without hidden agenda or deceit'.]].
 
-The basis for consideration of a truth is not only in the value that it actually has in clarifying thought, or even in the purposes to which it can potentially be applied. It is also in the significance and meaningfulness that it give to life. The meaning of a truth is always more basica than its value or its purpose.
+The basis for consideration of a truth is not only in the value that it actually has in clarifying thought, or even in the purposes to which it can potentially be applied. It is also in the significance and meaningfulness that it gives to life. The meaning of a truth is always more basic than its value or its purpose.
 
 No one is ever wholly wrong; there is always a grain of truth in whatever anyone says, or is in their being.
 
@@ -1712,11 +1712,133 @@ The <b>context of expression</b> refers to one's beliefs, attitudes, understandi
 
 The degree of meaningfulness associated with an eventity such as a work of art or a play is proportional to the degree of coherent selectivity that is defined by the selective choice(s) that compose that eventity.
 
-[…]
+A high degree of coherency in a field of choices, choices which are otherwise unconstrained and which implement a high degree of synchronicity, is inherently meaningful. The details of a work of art and overall artwork itself, will be considered *less* meaningful and significant when they are known to be required by some form of causality or logic (i.e., when they are not chosen).
+
+The degree of seeming comprehensibleness of an eventity in factual terms is inversely proportional to the degree of seeming meaningfulness of that eventity. Significance is positively proportional to knowing and inversely proportional to understanding. The more one comprehends reality in terms of laws and facts, the less one will find significance and meaningfulness in life.
+
+Eventities which have mythic, mystic, or mysterious qualities will tend to have greater significance than eventities (arts) which are purely factual and structural.
+
+To know the meaning or significance of an event is similar in nature to knowing the meaning of a statement; one must know the context (language) and content (things) to which the statement refers.
+
+The meaningfulness of an eventity does not have a definite position within it; yet it is inseparable, intrinsically associated with the eventity (much as the soul does not have a definite position within the body).
+
+Form acts as a filter of feeling; much as colored glass will filter white light. Form does not create feeling, where otherwise there would be none, so much as it selects a single feeling out the of the totality of feelings available to the perceiver of that form. The perceiver of art is the light of feeling that is filtered and selected by that art.
+
+Without coordination, the greater the diversity of forms involved in any single level or domain of representation, the fewer and weaker the qualities and intensities of feeling.
+
+Tools and instruments (defined in terms of form, function and purpose)  
+modify, enable, and filter expression and creativity.  
+Art and consumables (defined in terms of feeling, quality, and value)  
+modify, enable, and filter perception and experience.
+
+The meaningfulness of a tool increases to the degree that it involves a change in objective potentiality.  
+The meaningfulness of art increases to the degree that it involves a change in subjective actuality.
+
+Art, when evaluated in terms of quality, must be understood in terms of subtractive synthesis, rather than in terms of additive synthesis. Art increases in effectiveness when it employs a maximal diversity of levels of representation (has multiple aspects or communicates within multiple domains)[[Significance (effectiveness) in art is increased with proper alignments across levels of representation, much as multiple filters used in combination can achieve better effects (in terms of both purity and efficiency of energy transmission) than using only one filter. The concept of purity here is understood as "consisting of a single quality of feeling", while the concept of "energy efficiency" is analogous to the concept of intensity.]].
+
+Form is significant to the extent that it is unique and singular in expression. Feeling is emphasized and quality increases to the extent that a form is plural and perfectly similar.
+
+In repetition of expression, the meaningfulness of a singularity of form (monism of quality) dissolves into a plurality of qualities, and quality increases.
+
+To the extent that a form is singular, separate, and unique, it acts as a focus and a boundary (division) in the flow of awareness. When a form is plural—part of a continuity of pattern, and is everywhere similar—it acts as a medium of (a conduit to the flow of) awareness.
+
+Where there is too much repetition of form, and not enough diversity (singularity and uniqueness) of form, a redundancy and incompleteness of the filtering of feeling results (a loss of purity and efficiency).  
+Where there is too much diversity of form, and not enough repetition (continuity and similarity), too many qualities of feeling are blocked without discrimination (also a loss of purity and effectiveness).  
+Effective (potent) art will have the right balance in the diversity and similarity of form.  
+Good art has neither too few nor too many patterns of form.
+
+Great art consists of the right balance of forms and patterns in diverse levels and combinations of being. In a work of great art, all of the forms chosen from the total range of all possible forms, components, substances, aspects, patterns, etc, result in the selection of a single specific quality of feeling. This occurs regardless of the diversity involved.
+
+In the best works, all aspects and references of the art are in alignment with all other aspects and references of the art. Effective art is art with an internal agreement. No other forms or patterns than those strictly necessary are present.
+
+Art, which presents the greatest possible intensity and purity of feeling using the smallest number of effective and selective elements and forms, is considered to be the best. Art has significance in proportion to the degree that the selection of the forms employed are maximally coherent in defining a single, pure, and intense quality of feeling.
+
+An event of art is effective in proportion to the degree that it has many diverse interconnected layers of meaning which are experienced at multiple depths of consciousness.
+
+Art will be highly valued in proportion to the depth within self at which its quality of feeling peaks in both purity and intensity. The greater the degree of depth, intensity, and purity of feeling of the art within self, the greater its value will be.
+
+The experiences of life which touch most deeply will also be those which are most valued. The popularity and fame of a work of art in a culture is therefore in proportion to its depth of affect[[Sex, drugs, passion, peak experiences, and great art—all of which affect the psyche at deeper levels than the everyday—will be the subjects of intense interest both individually and culturally. An experience which is felt at once by many aspects of self at various depths of feeling, will overall be more satisfying than experiences which involve only a few layers or aspects.]].
+
+The strength of a work of art increases with its originality, generality, and effectiveness.
+
+Generality refers to the proportion of a population who is affected by a work of art upon perceiving it. The degree of generality of a work of art is proportional to the degree that the origin of the art is deeper than the artist's ordinary state of consciousness; the degree to which the work has originality.
+
+The quality and affect of perceiving a work of art is in proportion to the depth (originality), intensity (clarity of passion), and purity (singularity of quality) of the artist's feeling when creating that work[[This works in much the same manner that the quality of the response to a question often is a reflection of the quality of the question asked.]].
+
+Art is strong in proportion to the degree of 'feeling impact' that it creates in each individual that views it. The rapidity of the distribution of a work of art is proportional to its degree of originality. The degree of depth of a work of art is proportional to its degree of generality.
+
+The degree of **subjective meaningfulness** is the product of 1) the total amount of organizing effect that a work of art (an eventity) has on one's perception and 2) the rapidity with which this organizing takes place.
+
+The degree of **objective meaningfulness** is the sum of the degrees to which the organizing effect on each individual perception is similar to the organizing effect on all other individuals.
+
+The significance of a work of art is proportional to the degree that it creates connections, connectivity, and a continuity of being (tradition).
+
+Effective art involves a shift in the balance of novelty (difference) and rhythm (sameness) in the elements of perception. Awareness tends to focus at that location with the greatest degree of novelty, difference and variation. Awareness passes over and through those areas which are consistent, similar, and continuous. The more that something is habitual and automated, the more it is unconscious.
+
+The effectiveness of art is, in part, proportional to the degree that there is a unity of essence amidst a plurality of sounds, shapes, images, smells, movements, and textures.
+
+Art is effective in proportion to the degree that it has many diverse, interconnected layers of coherent meaning.
+
+Art experienced at once by many aspects of self, for each participant, at various depths of feeling, will overall be more satisfying than art involving only a few layers or aspects.
+
+Art is more effective to the degree that each element in that art creates a similar quality and unity of feeling, regardless of the diversity of the forms and components themselves.
+
+Ideally, every symbol (and each connotation and reference of each symbol) used would align and agree with all others. The effectiveness of a work of art increases to the degree that all aspects and components agree with one another in their essential feeling.
+
+**Rule of Precedence:**  
+A multitude of form precedes each coherency, unity, and continuity.  
+A multitude of coherency and unity precedes each moment of meaningfulness.  
+A multitude of meaningfulness and significance precedes each form.
 
 {{footnotes}}
 
 ### An Aesthetic Basis
+
+*<u>To be truly effective in life, one needs:</u>*
+
+To desire clarity, rather than just simplicity.  
+To value diversity, rather than just to value solidarity.  
+To desire choice, rather than just comfort or security.  
+To focus on the future and the moment, rather than just on the past.  
+To have vision, rather than to have only sight.  
+To hear as well as to see.  
+To deeply feel, as well as to quickly think.  
+To synthesize, rather than to merely analyze.  
+To focus awareness on one's loves, rather than on one's fears and anger.  
+To focus on spirit, rather than just on matter.  
+To focus on mind, rather than just on body.  
+To focus on quality, rather than just on quantity.  
+To focus on similarity, rather than just on difference.  
+To focus on context, rather than just on content.  
+To focus on that which is organic, rather than that which is mechanistic.  
+To focus on meaning (inner values) rather than just on purpose or (monitory) value.  
+To focus on possibility, rather than just on actuality.  
+To focus on creation, rather than just on what already exists.  
+To focus on expression, rather than just on perception.  
+To focus on communication, rather than just on information.  
+To focus on the spiritual, rather than just on the physical.  
+To focus on the infinite, rather than just on the measurable.  
+To focus on the small, rather than just on the large.  
+To focus on depth, rather than just on speed.  
+To focus on creativity, rather than just on control.  
+To focus on continuity, rather than just on symmetry.  
+To focus on the beautiful and inspirational, rather than on that which is just practical.  
+To focus on that which is within, as well as that which is without.  
+To focus on inner strength, rather than on external power.  
+To focus on one's freedoms, rather than on one's (seeming) limitations.  
+To focus on the ways something is true, rather than just on the ways something is false.  
+To focus on cooperation (peace), rather than just on competition (war).  
+To focus on the sacred, rather than just on the mundane.  
+To focus on what is already right, rather than on what could go wrong.  
+To focus on the subjective, rather than just on the objective.  
+To focus on the myths, rather than just on the facts.  
+To focus on the unknowable, rather than just on the known.  
+To focus on soundness, rather than just on validity.  
+To focus on environment, rather than just on self.  
+To focus on desire, rather than just on want or need.  
+To focus on health, rather than just on wealth.  
+To focus on attaining joy, rather than just on avoiding pain.
+
 {{footnotes}}
 
 <div style='margin-top: 10em'></div>
